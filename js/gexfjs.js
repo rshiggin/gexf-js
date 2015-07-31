@@ -24,13 +24,14 @@ var GexfJS = {
         activeNode : -1,
         currentNode : -1
     },
+/* params adusted to center default position of graph */	
     oldParams : {},
     minZoom : -3,
     maxZoom : 10,
-    overviewWidth : 200,
-    overviewHeight : 175,
-    baseWidth : 800,
-    baseHeight : 700,
+    overviewWidth : 0,
+    overviewHeight : 0,
+    baseWidth : 900,
+    baseHeight : 800,
     overviewScale : .25,
     totalScroll : 0,
     autoCompletePosition : 0,
@@ -183,6 +184,7 @@ var GexfJS = {
     lang : "en"
 };
 
+
 function strLang(_str) {
     var _l = GexfJS.i18n[GexfJS.lang];
     return ( _l[_str] ? _l[_str] : ( GexfJS.i18n["en"][_str] ? GexfJS.i18n["en"][_str] : _str.replace("_"," ") ) );
@@ -255,7 +257,7 @@ function displayNode(_nodeIndex, _recentre) {
 function updateWorkspaceBounds() {
     
     var _elZC = $("#zonecentre");
-    var _top = {
+ 	var _top = {
         top : $("#titlebar").height() + "px"
     };
     _elZC.css(_top);
@@ -373,6 +375,18 @@ function onGraphScroll(evt, delta) {
         GexfJS.totalScroll = 0;
     }
 }
+/*
+function draw(){
+
+    var selector = '#area-chart';
+
+    $(selector).attr( 'width', $(selector).parent().width() )
+    myLine = new Chart(document.getElementById('area-chart').getContext('2d')).Line(lineChartData2);
+
+}
+$(window).resize( draw );
+draw()
+*/
 
 function initializeMap() {
     clearInterval(GexfJS.timeRefresh);
