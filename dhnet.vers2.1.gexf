@@ -1,0 +1,1924 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.2draft" version="1.2" xmlns:viz="http://www.gexf.net/1.2draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd">
+  <meta lastmodifieddate="2015-06-27">
+    <creator>Gephi 0.8.1</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="degree" title="Degree" type="integer">
+        <default>0</default>
+      </attribute>
+      <attribute id="weighted degree" title="Weighted Degree" type="double">
+        <default>0.0</default>
+      </attribute>
+      <attribute id="name" title="name" type="string"></attribute>
+    </attributes>
+    <nodes>
+      <node id="57">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+          <attvalue for="name" value="Verlon Stone"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-465.1629" y="139.20265" z="0.0"></viz:position>
+        <viz:color r="0" g="230" b="78"></viz:color>
+      </node>
+      <node id="106">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+          <attvalue for="name" value="Liberian Collections"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-420.15088" y="193.87897" z="0.0"></viz:position>
+        <viz:color r="0" g="230" b="78"></viz:color>
+      </node>
+      <node id="81">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+          <attvalue for="name" value="Black Film Archive"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-92.635086" y="304.80624" z="0.0"></viz:position>
+        <viz:color r="0" g="230" b="78"></viz:color>
+      </node>
+      <node id="76">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+          <attvalue for="name" value="Religious Studies"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="230.13054" y="-300.16962" z="0.0"></viz:position>
+        <viz:color r="0" g="230" b="78"></viz:color>
+      </node>
+      <node id="116">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+          <attvalue for="name" value="Richard Rufus Project"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="219.67725" y="-339.86322" z="0.0"></viz:position>
+        <viz:color r="0" g="230" b="78"></viz:color>
+      </node>
+      <node id="86">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+          <attvalue for="name" value="Glenn Black Lab"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="298.1182" y="191.86209" z="0.0"></viz:position>
+        <viz:color r="0" g="230" b="78"></viz:color>
+      </node>
+      <node id="1">
+        <attvalues>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="name" value="Michael Martin"></attvalue>
+        </attvalues>
+        <viz:size value="8.181818"></viz:size>
+        <viz:position x="-155.11496" y="324.8821" z="0.0"></viz:position>
+        <viz:color r="31" g="80" b="255"></viz:color>
+      </node>
+      <node id="62">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+          <attvalue for="name" value="American Studies"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-201.11319" y="304.96637" z="0.0"></viz:position>
+        <viz:color r="0" g="230" b="78"></viz:color>
+      </node>
+      <node id="37">
+        <attvalues>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="name" value="Edward Curtis IV"></attvalue>
+        </attvalues>
+        <viz:size value="8.181818"></viz:size>
+        <viz:position x="250.57596" y="-253.93135" z="0.0"></viz:position>
+        <viz:color r="31" g="80" b="255"></viz:color>
+      </node>
+      <node id="111">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+          <attvalue for="name" value="Muslim American Identities"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="314.83313" y="-248.84167" z="0.0"></viz:position>
+        <viz:color r="0" g="230" b="78"></viz:color>
+      </node>
+      <node id="36">
+        <attvalues>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="name" value="Rega Wood"></attvalue>
+        </attvalues>
+        <viz:size value="8.181818"></viz:size>
+        <viz:position x="180.97932" y="-313.83313" z="0.0"></viz:position>
+        <viz:color r="31" g="80" b="255"></viz:color>
+      </node>
+      <node id="75">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+          <attvalue for="name" value="Philosophy"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="157.36523" y="-344.89554" z="0.0"></viz:position>
+        <viz:color r="0" g="230" b="78"></viz:color>
+      </node>
+      <node id="2">
+        <attvalues>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="name" value="Douglas Parks"></attvalue>
+        </attvalues>
+        <viz:size value="8.181818"></viz:size>
+        <viz:position x="322.7353" y="101.00427" z="0.0"></viz:position>
+        <viz:color r="31" g="80" b="255"></viz:color>
+      </node>
+      <node id="79">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+          <attvalue for="name" value="American Indian Studies Research Institute"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="310.33652" y="56.457832" z="0.0"></viz:position>
+        <viz:color r="0" g="230" b="78"></viz:color>
+      </node>
+      <node id="3">
+        <attvalues>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="name" value="Stacie King"></attvalue>
+        </attvalues>
+        <viz:size value="8.181818"></viz:size>
+        <viz:position x="282.1342" y="152.56339" z="0.0"></viz:position>
+        <viz:color r="31" g="80" b="255"></viz:color>
+      </node>
+      <node id="63">
+        <attvalues>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="name" value="Anthropology"></attvalue>
+        </attvalues>
+        <viz:size value="8.181818"></viz:size>
+        <viz:position x="315.62158" y="131.58528" z="0.0"></viz:position>
+        <viz:color r="31" g="80" b="255"></viz:color>
+      </node>
+      <node id="25">
+        <attvalues>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="name" value="Ying Ding"></attvalue>
+        </attvalues>
+        <viz:size value="8.181818"></viz:size>
+        <viz:position x="-403.12738" y="-234.55165" z="0.0"></viz:position>
+        <viz:color r="31" g="80" b="255"></viz:color>
+      </node>
+      <node id="92">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+          <attvalue for="name" value="Variations"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="38.669025" y="332.6008" z="0.0"></viz:position>
+        <viz:color r="0" g="230" b="78"></viz:color>
+      </node>
+      <node id="121">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+          <attvalue for="name" value="Wikipedia Edit-a-Thons"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="228.83769" y="-180.82" z="0.0"></viz:position>
+        <viz:color r="0" g="230" b="78"></viz:color>
+      </node>
+      <node id="126">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+          <attvalue for="name" value="TheJUMP journal"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="78.37537" y="-324.869" z="0.0"></viz:position>
+        <viz:color r="0" g="230" b="78"></viz:color>
+      </node>
+      <node id="69">
+        <attvalues>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="name" value="History Philosophy of Science"></attvalue>
+        </attvalues>
+        <viz:size value="8.181818"></viz:size>
+        <viz:position x="-294.7444" y="271.37488" z="0.0"></viz:position>
+        <viz:color r="31" g="80" b="255"></viz:color>
+      </node>
+      <node id="19">
+        <attvalues>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="name" value="Cassidy Sugimoto"></attvalue>
+        </attvalues>
+        <viz:size value="8.181818"></viz:size>
+        <viz:position x="-466.31073" y="-227.48824" z="0.0"></viz:position>
+        <viz:color r="31" g="80" b="255"></viz:color>
+      </node>
+      <node id="95">
+        <attvalues>
+          <attvalue for="degree" value="3"></attvalue>
+          <attvalue for="weighted degree" value="3.0"></attvalue>
+          <attvalue for="name" value="Cascades, Islands, or Streams?"></attvalue>
+        </attvalues>
+        <viz:size value="11.363636"></viz:size>
+        <viz:position x="-436.9443" y="-329.79642" z="0.0"></viz:position>
+        <viz:color r="255" g="56" b="92"></viz:color>
+      </node>
+      <node id="128">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="101.25947" y="128.35028" z="0.0"></viz:position>
+        <viz:color r="0" g="230" b="78"></viz:color>
+      </node>
+      <node id="87">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+          <attvalue for="name" value="Humanities Intensive Learning and Teaching Institute"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="315.20752" y="-157.11699" z="0.0"></viz:position>
+        <viz:color r="0" g="230" b="78"></viz:color>
+      </node>
+      <node id="45">
+        <attvalues>
+          <attvalue for="degree" value="3"></attvalue>
+          <attvalue for="weighted degree" value="3.0"></attvalue>
+          <attvalue for="name" value="Jon Dunn"></attvalue>
+        </attvalues>
+        <viz:size value="11.363636"></viz:size>
+        <viz:position x="61.799183" y="315.2538" z="0.0"></viz:position>
+        <viz:color r="255" g="56" b="92"></viz:color>
+      </node>
+      <node id="94">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+          <attvalue for="name" value="Avalon"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="68.58675" y="343.05002" z="0.0"></viz:position>
+        <viz:color r="0" g="230" b="78"></viz:color>
+      </node>
+      <node id="33">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+          <attvalue for="name" value="Will Emigh"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-78.84897" y="337.99933" z="0.0"></viz:position>
+        <viz:color r="0" g="230" b="78"></viz:color>
+      </node>
+      <node id="6">
+        <attvalues>
+          <attvalue for="degree" value="3"></attvalue>
+          <attvalue for="weighted degree" value="3.0"></attvalue>
+          <attvalue for="name" value="Justin Hodgson"></attvalue>
+        </attvalues>
+        <viz:size value="11.363636"></viz:size>
+        <viz:position x="50.88542" y="-438.06067" z="0.0"></viz:position>
+        <viz:color r="255" g="56" b="92"></viz:color>
+      </node>
+      <node id="102">
+        <attvalues>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="name" value="Digital Rhetorics and Digital Humanities"></attvalue>
+        </attvalues>
+        <viz:size value="8.181818"></viz:size>
+        <viz:position x="-74.578415" y="-406.5812" z="0.0"></viz:position>
+        <viz:color r="31" g="80" b="255"></viz:color>
+      </node>
+      <node id="114">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+          <attvalue for="name" value="Swinburne Project"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-256.68616" y="-44.061817" z="0.0"></viz:position>
+        <viz:color r="0" g="230" b="78"></viz:color>
+      </node>
+      <node id="53">
+        <attvalues>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="name" value="Wally Hooper"></attvalue>
+        </attvalues>
+        <viz:size value="8.181818"></viz:size>
+        <viz:position x="-167.8179" y="167.95811" z="0.0"></viz:position>
+        <viz:color r="31" g="80" b="255"></viz:color>
+      </node>
+      <node id="98">
+        <attvalues>
+          <attvalue for="degree" value="5"></attvalue>
+          <attvalue for="weighted degree" value="5.0"></attvalue>
+          <attvalue for="name" value="Chymistry of Isaac Newton"></attvalue>
+        </attvalues>
+        <viz:size value="17.727272"></viz:size>
+        <viz:position x="-114.03943" y="271.62692" z="0.0"></viz:position>
+        <viz:color r="202" g="7" b="113"></viz:color>
+      </node>
+      <node id="9">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+          <attvalue for="name" value="Peter Williams"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-123.09478" y="75.08576" z="0.0"></viz:position>
+        <viz:color r="0" g="230" b="78"></viz:color>
+      </node>
+      <node id="55">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+          <attvalue for="name" value="Dirk Herr-Hoyman"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-374.81305" y="41.003563" z="0.0"></viz:position>
+        <viz:color r="0" g="230" b="78"></viz:color>
+      </node>
+      <node id="58">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+          <attvalue for="name" value="Jaimie Murdock"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-272.63068" y="244.7045" z="0.0"></viz:position>
+        <viz:color r="0" g="230" b="78"></viz:color>
+      </node>
+      <node id="108">
+        <attvalues>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="name" value="Indiana Philosophy Ontology"></attvalue>
+        </attvalues>
+        <viz:size value="8.181818"></viz:size>
+        <viz:position x="-260.0274" y="190.3519" z="0.0"></viz:position>
+        <viz:color r="31" g="80" b="255"></viz:color>
+      </node>
+      <node id="17">
+        <attvalues>
+          <attvalue for="degree" value="3"></attvalue>
+          <attvalue for="weighted degree" value="3.0"></attvalue>
+          <attvalue for="name" value="Bill Newman"></attvalue>
+        </attvalues>
+        <viz:size value="11.363636"></viz:size>
+        <viz:position x="-176.5624" y="230.40472" z="0.0"></viz:position>
+        <viz:color r="255" g="56" b="92"></viz:color>
+      </node>
+      <node id="82">
+        <attvalues>
+          <attvalue for="degree" value="3"></attvalue>
+          <attvalue for="weighted degree" value="3.0"></attvalue>
+          <attvalue for="name" value="Catapult Center"></attvalue>
+        </attvalues>
+        <viz:size value="11.363636"></viz:size>
+        <viz:position x="-212.22224" y="147.10614" z="0.0"></viz:position>
+        <viz:color r="255" g="56" b="92"></viz:color>
+      </node>
+      <node id="13">
+        <attvalues>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="name" value="H. Wayne Storey"></attvalue>
+        </attvalues>
+        <viz:size value="8.181818"></viz:size>
+        <viz:position x="-143.30515" y="-366.91925" z="0.0"></viz:position>
+        <viz:color r="31" g="80" b="255"></viz:color>
+      </node>
+      <node id="67">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+          <attvalue for="name" value="French and Italian"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-210.77481" y="-407.5876" z="0.0"></viz:position>
+        <viz:color r="0" g="230" b="78"></viz:color>
+      </node>
+      <node id="20">
+        <attvalues>
+          <attvalue for="degree" value="3"></attvalue>
+          <attvalue for="weighted degree" value="3.0"></attvalue>
+          <attvalue for="name" value="Grace Thomas"></attvalue>
+        </attvalues>
+        <viz:size value="11.363636"></viz:size>
+        <viz:position x="-248.9497" y="-280.15576" z="0.0"></viz:position>
+        <viz:color r="255" g="56" b="92"></viz:color>
+      </node>
+      <node id="113">
+        <attvalues>
+          <attvalue for="degree" value="3"></attvalue>
+          <attvalue for="weighted degree" value="3.0"></attvalue>
+          <attvalue for="name" value="Petrarchive"></attvalue>
+        </attvalues>
+        <viz:size value="11.363636"></viz:size>
+        <viz:position x="-219.4333" y="-331.10303" z="0.0"></viz:position>
+        <viz:color r="255" g="56" b="92"></viz:color>
+      </node>
+      <node id="54">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+          <attvalue for="name" value="Scott Weingart"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-293.88248" y="-318.48978" z="0.0"></viz:position>
+        <viz:color r="0" g="230" b="78"></viz:color>
+      </node>
+      <node id="26">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+          <attvalue for="name" value="Vincent Malic"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-247.84966" y="-226.4232" z="0.0"></viz:position>
+        <viz:color r="0" g="230" b="78"></viz:color>
+      </node>
+      <node id="115">
+        <attvalues>
+          <attvalue for="degree" value="3"></attvalue>
+          <attvalue for="weighted degree" value="3.0"></attvalue>
+          <attvalue for="name" value="TEI Boilerplate"></attvalue>
+        </attvalues>
+        <viz:size value="11.363636"></viz:size>
+        <viz:position x="-121.24463" y="-35.881523" z="0.0"></viz:position>
+        <viz:color r="255" g="56" b="92"></viz:color>
+      </node>
+      <node id="49">
+        <attvalues>
+          <attvalue for="degree" value="3"></attvalue>
+          <attvalue for="weighted degree" value="4.0"></attvalue>
+          <attvalue for="name" value="Nick Homeda"></attvalue>
+        </attvalues>
+        <viz:size value="14.545455"></viz:size>
+        <viz:position x="146.70474" y="267.48328" z="0.0"></viz:position>
+        <viz:color r="255" g="56" b="92"></viz:color>
+      </node>
+      <node id="132">
+        <attvalues>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+        </attvalues>
+        <viz:size value="8.181818"></viz:size>
+        <viz:position x="116.74951" y="164.0229" z="0.0"></viz:position>
+        <viz:color r="31" g="80" b="255"></viz:color>
+      </node>
+      <node id="60">
+        <attvalues>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="name" value="Sheyna Pekala"></attvalue>
+        </attvalues>
+        <viz:size value="8.181818"></viz:size>
+        <viz:position x="94.136665" y="292.8545" z="0.0"></viz:position>
+        <viz:color r="31" g="80" b="255"></viz:color>
+      </node>
+      <node id="125">
+        <attvalues>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="name" value="Open Journal System "></attvalue>
+        </attvalues>
+        <viz:size value="8.181818"></viz:size>
+        <viz:position x="169.8273" y="304.2422" z="0.0"></viz:position>
+        <viz:color r="31" g="80" b="255"></viz:color>
+      </node>
+      <node id="35">
+        <attvalues>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="name" value="Guiliano Di Bacco"></attvalue>
+        </attvalues>
+        <viz:size value="8.181818"></viz:size>
+        <viz:position x="361.64536" y="-11.3310175" z="0.0"></viz:position>
+        <viz:color r="31" g="80" b="255"></viz:color>
+      </node>
+      <node id="117">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+          <attvalue for="name" value="Thesaurus Musicarum Latinarum"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="292.27094" y="28.583824" z="0.0"></viz:position>
+        <viz:color r="0" g="230" b="78"></viz:color>
+      </node>
+      <node id="16">
+        <attvalues>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="name" value="Konstantin Dierks"></attvalue>
+        </attvalues>
+        <viz:size value="8.181818"></viz:size>
+        <viz:position x="355.17737" y="-45.42962" z="0.0"></viz:position>
+        <viz:color r="31" g="80" b="255"></viz:color>
+      </node>
+      <node id="107">
+        <attvalues>
+          <attvalue for="degree" value="3"></attvalue>
+          <attvalue for="weighted degree" value="3.0"></attvalue>
+          <attvalue for="name" value="Mapping World History"></attvalue>
+        </attvalues>
+        <viz:size value="11.363636"></viz:size>
+        <viz:position x="261.0338" y="-7.7145505" z="0.0"></viz:position>
+        <viz:color r="255" g="56" b="92"></viz:color>
+      </node>
+      <node id="15">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+          <attvalue for="name" value="Kalani Craig"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="328.11288" y="-65.436554" z="0.0"></viz:position>
+        <viz:color r="0" g="230" b="78"></viz:color>
+      </node>
+      <node id="31">
+        <attvalues>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="name" value="Andy Uhrich"></attvalue>
+        </attvalues>
+        <viz:size value="8.181818"></viz:size>
+        <viz:position x="-37.40622" y="340.55374" z="0.0"></viz:position>
+        <viz:color r="31" g="80" b="255"></viz:color>
+      </node>
+      <node id="73">
+        <attvalues>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="name" value="Media School"></attvalue>
+        </attvalues>
+        <viz:size value="8.181818"></viz:size>
+        <viz:position x="-64.36626" y="353.1215" z="0.0"></viz:position>
+        <viz:color r="31" g="80" b="255"></viz:color>
+      </node>
+      <node id="43">
+        <attvalues>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="name" value="Angela Courtney"></attvalue>
+        </attvalues>
+        <viz:size value="8.181818"></viz:size>
+        <viz:position x="-7.865006" y="193.23738" z="0.0"></viz:position>
+        <viz:color r="31" g="80" b="255"></viz:color>
+      </node>
+      <node id="118">
+        <attvalues>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="name" value="Victorian Women Writers Project"></attvalue>
+        </attvalues>
+        <viz:size value="8.181818"></viz:size>
+        <viz:position x="-51.014404" y="135.02127" z="0.0"></viz:position>
+        <viz:color r="31" g="80" b="255"></viz:color>
+      </node>
+      <node id="93">
+        <attvalues>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="name" value="Virtual World Heritage Laboratory"></attvalue>
+        </attvalues>
+        <viz:size value="8.181818"></viz:size>
+        <viz:position x="-485.95074" y="-4.722942" z="0.0"></viz:position>
+        <viz:color r="31" g="80" b="255"></viz:color>
+      </node>
+      <node id="105">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+          <attvalue for="name" value="FemTechNet"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="178.99455" y="-284.87393" z="0.0"></viz:position>
+        <viz:color r="0" g="230" b="78"></viz:color>
+      </node>
+      <node id="91">
+        <attvalues>
+          <attvalue for="degree" value="3"></attvalue>
+          <attvalue for="weighted degree" value="3.0"></attvalue>
+          <attvalue for="name" value="Pervasive Technology Institute"></attvalue>
+        </attvalues>
+        <viz:size value="11.363636"></viz:size>
+        <viz:position x="-164.75848" y="82.3263" z="0.0"></viz:position>
+        <viz:color r="255" g="56" b="92"></viz:color>
+      </node>
+      <node id="90">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+          <attvalue for="name" value="Mathers Museum of World Culture"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="206.64099" y="-83.56354" z="0.0"></viz:position>
+        <viz:color r="0" g="230" b="78"></viz:color>
+      </node>
+      <node id="112">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+          <attvalue for="name" value="Oufinopo"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="214.40503" y="160.22464" z="0.0"></viz:position>
+        <viz:color r="0" g="230" b="78"></viz:color>
+      </node>
+      <node id="21">
+        <attvalues>
+          <attvalue for="degree" value="10"></attvalue>
+          <attvalue for="weighted degree" value="10.0"></attvalue>
+          <attvalue for="name" value="John Walsh"></attvalue>
+        </attvalues>
+        <viz:size value="33.636364"></viz:size>
+        <viz:position x="-368.00867" y="-35.579353" z="0.0"></viz:position>
+        <viz:color r="78" g="202" b="7"></viz:color>
+      </node>
+      <node id="123">
+        <attvalues>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="name" value="ADHO Abstracts"></attvalue>
+        </attvalues>
+        <viz:size value="8.181818"></viz:size>
+        <viz:position x="-178.85461" y="-155.21837" z="0.0"></viz:position>
+        <viz:color r="31" g="80" b="255"></viz:color>
+      </node>
+      <node id="4">
+        <attvalues>
+          <attvalue for="degree" value="3"></attvalue>
+          <attvalue for="weighted degree" value="3.0"></attvalue>
+          <attvalue for="name" value="Ellen MacKay"></attvalue>
+        </attvalues>
+        <viz:size value="11.363636"></viz:size>
+        <viz:position x="-103.80365" y="-104.49191" z="0.0"></viz:position>
+        <viz:color r="255" g="56" b="92"></viz:color>
+      </node>
+      <node id="127">
+        <attvalues>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="name" value="Dig Arts and Hum"></attvalue>
+        </attvalues>
+        <viz:size value="8.181818"></viz:size>
+        <viz:position x="-122.6486" y="-143.20663" z="0.0"></viz:position>
+        <viz:color r="31" g="80" b="255"></viz:color>
+      </node>
+      <node id="8">
+        <attvalues>
+          <attvalue for="degree" value="3"></attvalue>
+          <attvalue for="weighted degree" value="3.0"></attvalue>
+          <attvalue for="name" value="Margaret Dolinsky"></attvalue>
+        </attvalues>
+        <viz:size value="11.363636"></viz:size>
+        <viz:position x="-154.19905" y="112.99887" z="0.0"></viz:position>
+        <viz:color r="255" g="56" b="92"></viz:color>
+      </node>
+      <node id="89">
+        <attvalues>
+          <attvalue for="degree" value="4"></attvalue>
+          <attvalue for="weighted degree" value="4.0"></attvalue>
+          <attvalue for="name" value="Institute for Digital Arts and Humanities"></attvalue>
+        </attvalues>
+        <viz:size value="14.545455"></viz:size>
+        <viz:position x="-67.30853" y="49.542694" z="0.0"></viz:position>
+        <viz:color r="184" g="202" b="7"></viz:color>
+      </node>
+      <node id="10">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+          <attvalue for="name" value="Arthur Liou"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-86.34808" y="81.698044" z="0.0"></viz:position>
+        <viz:color r="0" g="230" b="78"></viz:color>
+      </node>
+      <node id="65">
+        <attvalues>
+          <attvalue for="degree" value="3"></attvalue>
+          <attvalue for="weighted degree" value="3.0"></attvalue>
+          <attvalue for="name" value="Fine Arts"></attvalue>
+        </attvalues>
+        <viz:size value="11.363636"></viz:size>
+        <viz:position x="-115.245476" y="137.35223" z="0.0"></viz:position>
+        <viz:color r="255" g="56" b="92"></viz:color>
+      </node>
+      <node id="18">
+        <attvalues>
+          <attvalue for="degree" value="3"></attvalue>
+          <attvalue for="weighted degree" value="3.0"></attvalue>
+          <attvalue for="name" value="Colin Allen"></attvalue>
+        </attvalues>
+        <viz:size value="11.363636"></viz:size>
+        <viz:position x="-306.66974" y="207.94711" z="0.0"></viz:position>
+        <viz:color r="255" g="56" b="92"></viz:color>
+      </node>
+      <node id="88">
+        <attvalues>
+          <attvalue for="degree" value="3"></attvalue>
+          <attvalue for="weighted degree" value="3.0"></attvalue>
+          <attvalue for="name" value="Hathi Trust Research Center"></attvalue>
+        </attvalues>
+        <viz:size value="11.363636"></viz:size>
+        <viz:position x="-329.9859" y="74.335976" z="0.0"></viz:position>
+        <viz:color r="255" g="56" b="92"></viz:color>
+      </node>
+      <node id="22">
+        <attvalues>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="name" value="Katy Borner"></attvalue>
+        </attvalues>
+        <viz:size value="8.181818"></viz:size>
+        <viz:position x="-341.4463" y="-272.78754" z="0.0"></viz:position>
+        <viz:color r="31" g="80" b="255"></viz:color>
+      </node>
+      <node id="83">
+        <attvalues>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="name" value="Cyberinfrastructure for Network Science"></attvalue>
+        </attvalues>
+        <viz:size value="8.181818"></viz:size>
+        <viz:position x="-339.17352" y="-360.18668" z="0.0"></viz:position>
+        <viz:color r="31" g="80" b="255"></viz:color>
+      </node>
+      <node id="24">
+        <attvalues>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="name" value="Stasia Milojevic"></attvalue>
+        </attvalues>
+        <viz:size value="8.181818"></viz:size>
+        <viz:position x="-578.44025" y="-191.18251" z="0.0"></viz:position>
+        <viz:color r="31" g="80" b="255"></viz:color>
+      </node>
+      <node id="70">
+        <attvalues>
+          <attvalue for="degree" value="9"></attvalue>
+          <attvalue for="weighted degree" value="9.0"></attvalue>
+          <attvalue for="name" value="Information  Library Science"></attvalue>
+        </attvalues>
+        <viz:size value="30.454546"></viz:size>
+        <viz:position x="-413.11362" y="-152.89217" z="0.0"></viz:position>
+        <viz:color r="7" g="43" b="202"></viz:color>
+      </node>
+      <node id="48">
+        <attvalues>
+          <attvalue for="degree" value="8"></attvalue>
+          <attvalue for="weighted degree" value="8.0"></attvalue>
+          <attvalue for="name" value="Michelle Dalmau"></attvalue>
+        </attvalues>
+        <viz:size value="27.272726"></viz:size>
+        <viz:position x="63.045433" y="106.7118" z="0.0"></viz:position>
+        <viz:color r="7" g="149" b="202"></viz:color>
+      </node>
+      <node id="97">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+          <attvalue for="name" value="Charles Cushman Photographs"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="6.091403" y="72.88679" z="0.0"></viz:position>
+        <viz:color r="0" g="230" b="78"></viz:color>
+      </node>
+      <node id="14">
+        <attvalues>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="name" value="Jennifer Guiliano"></attvalue>
+        </attvalues>
+        <viz:size value="8.181818"></viz:size>
+        <viz:position x="305.3527" y="-122.22399" z="0.0"></viz:position>
+        <viz:color r="31" g="80" b="255"></viz:color>
+      </node>
+      <node id="68">
+        <attvalues>
+          <attvalue for="degree" value="3"></attvalue>
+          <attvalue for="weighted degree" value="3.0"></attvalue>
+          <attvalue for="name" value="History"></attvalue>
+        </attvalues>
+        <viz:size value="11.363636"></viz:size>
+        <viz:position x="362.0962" y="-99.76868" z="0.0"></viz:position>
+        <viz:color r="255" g="56" b="92"></viz:color>
+      </node>
+      <node id="50">
+        <attvalues>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="name" value="Rachael Stoeltje"></attvalue>
+        </attvalues>
+        <viz:size value="8.181818"></viz:size>
+        <viz:position x="14.466336" y="282.41977" z="0.0"></viz:position>
+        <viz:color r="31" g="80" b="255"></viz:color>
+      </node>
+      <node id="110">
+        <attvalues>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="name" value="Moving Image Archive"></attvalue>
+        </attvalues>
+        <viz:size value="8.181818"></viz:size>
+        <viz:position x="-14.267114" y="315.495" z="0.0"></viz:position>
+        <viz:color r="31" g="80" b="255"></viz:color>
+      </node>
+      <node id="42">
+        <attvalues>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="name" value="Andrew Albrecht"></attvalue>
+        </attvalues>
+        <viz:size value="8.181818"></viz:size>
+        <viz:position x="30.72268" y="156.08429" z="0.0"></viz:position>
+        <viz:color r="31" g="80" b="255"></viz:color>
+      </node>
+      <node id="27">
+        <attvalues>
+          <attvalue for="degree" value="4"></attvalue>
+          <attvalue for="weighted degree" value="4.0"></attvalue>
+          <attvalue for="name" value="Bernie Frischer"></attvalue>
+        </attvalues>
+        <viz:size value="14.545455"></viz:size>
+        <viz:position x="-583.05414" y="-71.84147" z="0.0"></viz:position>
+        <viz:color r="184" g="202" b="7"></viz:color>
+      </node>
+      <node id="101">
+        <attvalues>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="name" value="Digital Hadrian's Villa"></attvalue>
+        </attvalues>
+        <viz:size value="8.181818"></viz:size>
+        <viz:position x="-517.5718" y="89.0873" z="0.0"></viz:position>
+        <viz:color r="31" g="80" b="255"></viz:color>
+      </node>
+      <node id="103">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+          <attvalue for="name" value="English Broadside Ballad Archive"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="114.56871" y="-297.28442" z="0.0"></viz:position>
+        <viz:color r="0" g="230" b="78"></viz:color>
+      </node>
+      <node id="28">
+        <attvalues>
+          <attvalue for="degree" value="4"></attvalue>
+          <attvalue for="weighted degree" value="4.0"></attvalue>
+          <attvalue for="name" value="Beth Plale"></attvalue>
+        </attvalues>
+        <viz:size value="14.545455"></viz:size>
+        <viz:position x="-366.48102" y="186.57338" z="0.0"></viz:position>
+        <viz:color r="184" g="202" b="7"></viz:color>
+      </node>
+      <node id="85">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+          <attvalue for="name" value="Data to Insight Center"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-275.5584" y="49.30906" z="0.0"></viz:position>
+        <viz:color r="0" g="230" b="78"></viz:color>
+      </node>
+      <node id="29">
+        <attvalues>
+          <attvalue for="degree" value="3"></attvalue>
+          <attvalue for="weighted degree" value="3.0"></attvalue>
+          <attvalue for="name" value="Matthew Brennan"></attvalue>
+        </attvalues>
+        <viz:size value="11.363636"></viz:size>
+        <viz:position x="-456.08902" y="57.262985" z="0.0"></viz:position>
+        <viz:color r="255" g="56" b="92"></viz:color>
+      </node>
+      <node id="71">
+        <attvalues>
+          <attvalue for="degree" value="3"></attvalue>
+          <attvalue for="weighted degree" value="3.0"></attvalue>
+          <attvalue for="name" value="Informatics"></attvalue>
+        </attvalues>
+        <viz:size value="11.363636"></viz:size>
+        <viz:position x="-394.79294" y="138.15141" z="0.0"></viz:position>
+        <viz:color r="255" g="56" b="92"></viz:color>
+      </node>
+      <node id="39">
+        <attvalues>
+          <attvalue for="degree" value="3"></attvalue>
+          <attvalue for="weighted degree" value="3.0"></attvalue>
+          <attvalue for="name" value="Eric Wernert"></attvalue>
+        </attvalues>
+        <viz:size value="11.363636"></viz:size>
+        <viz:position x="-203.48634" y="27.945152" z="0.0"></viz:position>
+        <viz:color r="255" g="56" b="92"></viz:color>
+      </node>
+      <node id="84">
+        <attvalues>
+          <attvalue for="degree" value="3"></attvalue>
+          <attvalue for="weighted degree" value="3.0"></attvalue>
+          <attvalue for="name" value="CyberDH"></attvalue>
+        </attvalues>
+        <viz:size value="11.363636"></viz:size>
+        <viz:position x="42.334286" y="-149.62383" z="0.0"></viz:position>
+        <viz:color r="255" g="56" b="92"></viz:color>
+      </node>
+      <node id="11">
+        <attvalues>
+          <attvalue for="degree" value="3"></attvalue>
+          <attvalue for="weighted degree" value="3.0"></attvalue>
+          <attvalue for="name" value="Jason Jackson"></attvalue>
+        </attvalues>
+        <viz:size value="11.363636"></viz:size>
+        <viz:position x="264.48627" y="-64.788795" z="0.0"></viz:position>
+        <viz:color r="255" g="56" b="92"></viz:color>
+      </node>
+      <node id="66">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+          <attvalue for="name" value="Folklore and Ethnomusicology"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="264.81647" y="-98.154434" z="0.0"></viz:position>
+        <viz:color r="0" g="230" b="78"></viz:color>
+      </node>
+      <node id="44">
+        <attvalues>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="name" value="Brenda Johnson"></attvalue>
+        </attvalues>
+        <viz:size value="8.181818"></viz:size>
+        <viz:position x="118.474754" y="113.47535" z="0.0"></viz:position>
+        <viz:color r="31" g="80" b="255"></viz:color>
+      </node>
+      <node id="40">
+        <attvalues>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="name" value="Laurie Antolivic"></attvalue>
+        </attvalues>
+        <viz:size value="8.181818"></viz:size>
+        <viz:position x="70.43818" y="-73.07328" z="0.0"></viz:position>
+        <viz:color r="31" g="80" b="255"></viz:color>
+      </node>
+      <node id="77">
+        <attvalues>
+          <attvalue for="degree" value="4"></attvalue>
+          <attvalue for="weighted degree" value="4.0"></attvalue>
+          <attvalue for="name" value="UITS"></attvalue>
+        </attvalues>
+        <viz:size value="14.545455"></viz:size>
+        <viz:position x="-38.848854" y="-64.90047" z="0.0"></viz:position>
+        <viz:color r="184" g="202" b="7"></viz:color>
+      </node>
+      <node id="51">
+        <attvalues>
+          <attvalue for="degree" value="5"></attvalue>
+          <attvalue for="weighted degree" value="5.0"></attvalue>
+          <attvalue for="name" value="Will Cowan"></attvalue>
+        </attvalues>
+        <viz:size value="17.727272"></viz:size>
+        <viz:position x="166.85966" y="142.95425" z="0.0"></viz:position>
+        <viz:color r="202" g="7" b="113"></viz:color>
+      </node>
+      <node id="133">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="230.42638" y="139.05214" z="0.0"></viz:position>
+        <viz:color r="0" g="230" b="78"></viz:color>
+      </node>
+      <node id="30">
+        <attvalues>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="name" value="Erika Dowell"></attvalue>
+        </attvalues>
+        <viz:size value="8.181818"></viz:size>
+        <viz:position x="228.27898" y="271.06464" z="0.0"></viz:position>
+        <viz:color r="31" g="80" b="255"></viz:color>
+      </node>
+      <node id="72">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+          <attvalue for="name" value="Lilly Library"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="261.52753" y="230.46092" z="0.0"></viz:position>
+        <viz:color r="0" g="230" b="78"></viz:color>
+      </node>
+      <node id="46">
+        <attvalues>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="name" value="Julie Hardesty"></attvalue>
+        </attvalues>
+        <viz:size value="8.181818"></viz:size>
+        <viz:position x="158.70836" y="213.47266" z="0.0"></viz:position>
+        <viz:color r="31" g="80" b="255"></viz:color>
+      </node>
+      <node id="120">
+        <attvalues>
+          <attvalue for="degree" value="3"></attvalue>
+          <attvalue for="weighted degree" value="3.0"></attvalue>
+          <attvalue for="name" value="War of 1812"></attvalue>
+        </attvalues>
+        <viz:size value="11.363636"></viz:size>
+        <viz:position x="212.71991" y="208.57303" z="0.0"></viz:position>
+        <viz:color r="255" g="56" b="92"></viz:color>
+      </node>
+      <node id="52">
+        <attvalues>
+          <attvalue for="degree" value="3"></attvalue>
+          <attvalue for="weighted degree" value="3.0"></attvalue>
+          <attvalue for="name" value="Alan Burdette"></attvalue>
+        </attvalues>
+        <viz:size value="11.363636"></viz:size>
+        <viz:position x="185.84595" y="30.248013" z="0.0"></viz:position>
+        <viz:color r="255" g="56" b="92"></viz:color>
+      </node>
+      <node id="131">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="214.22633" y="26.509798" z="0.0"></viz:position>
+        <viz:color r="0" g="230" b="78"></viz:color>
+      </node>
+      <node id="12">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+          <attvalue for="name" value="Ruth Stone"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="170.46497" y="75.51627" z="0.0"></viz:position>
+        <viz:color r="0" g="230" b="78"></viz:color>
+      </node>
+      <node id="122">
+        <attvalues>
+          <attvalue for="degree" value="3"></attvalue>
+          <attvalue for="weighted degree" value="3.0"></attvalue>
+          <attvalue for="name" value="HASTAC"></attvalue>
+        </attvalues>
+        <viz:size value="11.363636"></viz:size>
+        <viz:position x="67.66702" y="-101.69619" z="0.0"></viz:position>
+        <viz:color r="255" g="56" b="92"></viz:color>
+      </node>
+      <node id="47">
+        <attvalues>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="name" value="Meridith Beck Sayre"></attvalue>
+        </attvalues>
+        <viz:size value="8.181818"></viz:size>
+        <viz:position x="-54.06985" y="205.59804" z="0.0"></viz:position>
+        <viz:color r="31" g="80" b="255"></viz:color>
+      </node>
+      <node id="78">
+        <attvalues>
+          <attvalue for="degree" value="11"></attvalue>
+          <attvalue for="weighted degree" value="12.0"></attvalue>
+          <attvalue for="name" value="Wells Library"></attvalue>
+        </attvalues>
+        <viz:size value="40.0"></viz:size>
+        <viz:position x="59.794876" y="240.28094" z="0.0"></viz:position>
+        <viz:color r="202" g="113" b="7"></viz:color>
+      </node>
+      <node id="41">
+        <attvalues>
+          <attvalue for="degree" value="7"></attvalue>
+          <attvalue for="weighted degree" value="7.0"></attvalue>
+          <attvalue for="name" value="Tassie Gniady"></attvalue>
+        </attvalues>
+        <viz:size value="24.09091"></viz:size>
+        <viz:position x="158.97476" y="-209.83922" z="0.0"></viz:position>
+        <viz:color r="78" g="7" b="202"></viz:color>
+      </node>
+      <node id="100">
+        <attvalues>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="name" value="Digital Applications in Archaeology and Cultural Heritage"></attvalue>
+        </attvalues>
+        <viz:size value="8.181818"></viz:size>
+        <viz:position x="-255.8078" y="-79.24974" z="0.0"></viz:position>
+        <viz:color r="31" g="80" b="255"></viz:color>
+      </node>
+      <node id="38">
+        <attvalues>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="name" value="Brad Wheeler"></attvalue>
+        </attvalues>
+        <viz:size value="8.181818"></viz:size>
+        <viz:position x="14.529614" y="-20.57542" z="0.0"></viz:position>
+        <viz:color r="31" g="80" b="255"></viz:color>
+      </node>
+      <node id="109">
+        <attvalues>
+          <attvalue for="degree" value="5"></attvalue>
+          <attvalue for="weighted degree" value="5.0"></attvalue>
+          <attvalue for="name" value="Media Data Preservation Initiative "></attvalue>
+        </attvalues>
+        <viz:size value="17.727272"></viz:size>
+        <viz:position x="186.47443" y="-41.699966" z="0.0"></viz:position>
+        <viz:color r="202" g="7" b="113"></viz:color>
+      </node>
+      <node id="56">
+        <attvalues>
+          <attvalue for="degree" value="3"></attvalue>
+          <attvalue for="weighted degree" value="3.0"></attvalue>
+          <attvalue for="name" value="Clara Henderson"></attvalue>
+        </attvalues>
+        <viz:size value="11.363636"></viz:size>
+        <viz:position x="-15.433759" y="16.746973" z="0.0"></viz:position>
+        <viz:color r="255" g="56" b="92"></viz:color>
+      </node>
+      <node id="104">
+        <attvalues>
+          <attvalue for="degree" value="4"></attvalue>
+          <attvalue for="weighted degree" value="4.0"></attvalue>
+          <attvalue for="name" value="EVIA"></attvalue>
+        </attvalues>
+        <viz:size value="14.545455"></viz:size>
+        <viz:position x="145.44968" y="61.7377" z="0.0"></viz:position>
+        <viz:color r="184" g="202" b="7"></viz:color>
+      </node>
+      <node id="23">
+        <attvalues>
+          <attvalue for="degree" value="6"></attvalue>
+          <attvalue for="weighted degree" value="6.0"></attvalue>
+          <attvalue for="name" value="Richard Higgins"></attvalue>
+        </attvalues>
+        <viz:size value="20.909092"></viz:size>
+        <viz:position x="-81.989624" y="-189.4386" z="0.0"></viz:position>
+        <viz:color r="202" g="7" b="7"></viz:color>
+      </node>
+      <node id="99">
+        <attvalues>
+          <attvalue for="degree" value="3"></attvalue>
+          <attvalue for="weighted degree" value="3.0"></attvalue>
+          <attvalue for="name" value="Comic Readership Archive"></attvalue>
+        </attvalues>
+        <viz:size value="11.363636"></viz:size>
+        <viz:position x="-145.43016" y="-302.0359" z="0.0"></viz:position>
+        <viz:color r="255" g="56" b="92"></viz:color>
+      </node>
+      <node id="5">
+        <attvalues>
+          <attvalue for="degree" value="4"></attvalue>
+          <attvalue for="weighted degree" value="4.0"></attvalue>
+          <attvalue for="name" value="Grant Simpson"></attvalue>
+        </attvalues>
+        <viz:size value="14.545455"></viz:size>
+        <viz:position x="-189.13306" y="-60.60331" z="0.0"></viz:position>
+        <viz:color r="184" g="202" b="7"></viz:color>
+      </node>
+      <node id="96">
+        <attvalues>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="name" value="Comic Book Markup Language"></attvalue>
+        </attvalues>
+        <viz:size value="8.181818"></viz:size>
+        <viz:position x="-231.82251" y="-129.26166" z="0.0"></viz:position>
+        <viz:color r="31" g="80" b="255"></viz:color>
+      </node>
+      <node id="7">
+        <attvalues>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="name" value="Scot Barnett"></attvalue>
+        </attvalues>
+        <viz:size value="8.181818"></viz:size>
+        <viz:position x="-1.5521653" y="-377.67883" z="0.0"></viz:position>
+        <viz:color r="31" g="80" b="255"></viz:color>
+      </node>
+      <node id="64">
+        <attvalues>
+          <attvalue for="degree" value="5"></attvalue>
+          <attvalue for="weighted degree" value="5.0"></attvalue>
+          <attvalue for="name" value="English"></attvalue>
+        </attvalues>
+        <viz:size value="17.727272"></viz:size>
+        <viz:position x="-34.557228" y="-318.46228" z="0.0"></viz:position>
+        <viz:color r="202" g="7" b="113"></viz:color>
+      </node>
+      <node id="32">
+        <attvalues>
+          <attvalue for="degree" value="0"></attvalue>
+          <attvalue for="weighted degree" value="0.0"></attvalue>
+          <attvalue for="name" value="Ron Osgood"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="22.118078" y="28.367664" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="34">
+        <attvalues>
+          <attvalue for="degree" value="0"></attvalue>
+          <attvalue for="weighted degree" value="0.0"></attvalue>
+          <attvalue for="name" value="Norbert Herber"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-35.75107" y="68.883255" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="59">
+        <attvalues>
+          <attvalue for="degree" value="0"></attvalue>
+          <attvalue for="weighted degree" value="0.0"></attvalue>
+          <attvalue for="name" value="Nick Homenda"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="71.00266" y="23.058727" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="61">
+        <attvalues>
+          <attvalue for="degree" value="0"></attvalue>
+          <attvalue for="weighted degree" value="0.0"></attvalue>
+          <attvalue for="name" value="Ellen McKay"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="197.44885" y="-139.25745" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="74">
+        <attvalues>
+          <attvalue for="degree" value="0"></attvalue>
+          <attvalue for="weighted degree" value="0.0"></attvalue>
+          <attvalue for="name" value="Music"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="200.9005" y="72.343346" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="80">
+        <attvalues>
+          <attvalue for="degree" value="0"></attvalue>
+          <attvalue for="weighted degree" value="0.0"></attvalue>
+          <attvalue for="name" value="Archives of Traditional Music"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="150.79892" y="105.301956" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="119">
+        <attvalues>
+          <attvalue for="degree" value="0"></attvalue>
+          <attvalue for="weighted degree" value="0.0"></attvalue>
+          <attvalue for="name" value="Vietnam War: Stories from All Sides"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="42.184254" y="-501.38348" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="124">
+        <attvalues>
+          <attvalue for="degree" value="0"></attvalue>
+          <attvalue for="weighted degree" value="0.0"></attvalue>
+          <attvalue for="name" value="Digital Initiatives"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="153.0714" y="-113.4786" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="57" target="106">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="1" target="62">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="1" target="81">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="37" target="111">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="37" target="76">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="36" target="75">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="36" target="116">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="2" target="79">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="2" target="63">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="3" target="63">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="3" target="86">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="25" target="95">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="25" target="70">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="19" target="95">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="19" target="70">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="45" target="94">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="45" target="78">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="45" target="92">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="33" target="73">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="6" target="102">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="6" target="64">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="6" target="126">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="53" target="82">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="53" target="98">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="9" target="65">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="55" target="88">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="58" target="108">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="17" target="82">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="17" target="98">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="17" target="69">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="13" target="67">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="13" target="113">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="20" target="99">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="20" target="70">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="20" target="113">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="54" target="83">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="26" target="70">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="49" target="78">
+        <viz:color r="179" g="0" b="0"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="49" target="132">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="49" target="125">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="60" target="78">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="60" target="125">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="35" target="107">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="35" target="117">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="16" target="68">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="16" target="107">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="15" target="68">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="31" target="73">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="31" target="110">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="43" target="78">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="43" target="118">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="21" target="123">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="21" target="82">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="21" target="98">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="21" target="96">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="21" target="99">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="21" target="127">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="21" target="70">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="21" target="113">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="21" target="114">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="21" target="115">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="4" target="127">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="4" target="64">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="4" target="89">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="8" target="65">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="8" target="89">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="8" target="91">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="10" target="65">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="18" target="88">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="18" target="69">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="18" target="108">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="22" target="83">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="22" target="70">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="24" target="95">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="24" target="70">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="48" target="97">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="48" target="98">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="48" target="78">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="48" target="132">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="48" target="107">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="48" target="115">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="48" target="118">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="48" target="128">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="14" target="68">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="14" target="87">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="50" target="78">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="50" target="110">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="42" target="78">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="42" target="89">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="27" target="100">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="27" target="101">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="27" target="71">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="27" target="93">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="28" target="85">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="28" target="88">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="28" target="71">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="28" target="91">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="29" target="101">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="29" target="71">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="29" target="93">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="39" target="84">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="39" target="91">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="39" target="77">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="11" target="66">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="11" target="90">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="11" target="109">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="44" target="78">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="44" target="109">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="40" target="109">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="40" target="77">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="51" target="78">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="51" target="104">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="51" target="133">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="51" target="112">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="51" target="120">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="30" target="72">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="30" target="120">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="46" target="78">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="46" target="120">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="52" target="131">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="52" target="104">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="52" target="109">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="12" target="104">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="47" target="98">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="47" target="78">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="41" target="84">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="41" target="100">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="41" target="103">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="41" target="105">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="41" target="122">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="41" target="77">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="41" target="121">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="38" target="109">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="38" target="77">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="56" target="104">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="56" target="122">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="56" target="89">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="23" target="123">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="23" target="99">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="23" target="84">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="23" target="64">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="23" target="122">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="23" target="70">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="5" target="96">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="5" target="64">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="5" target="70">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="5" target="115">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="7" target="102">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="7" target="64">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>

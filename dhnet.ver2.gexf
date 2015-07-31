@@ -1,0 +1,2464 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.2draft" version="1.2" xmlns:viz="http://www.gexf.net/1.2draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd">
+  <meta lastmodifieddate="2015-06-27">
+    <creator>Gephi 0.8.1</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="degree" title="Degree" type="integer">
+        <default>0</default>
+      </attribute>
+      <attribute id="weighted degree" title="Weighted Degree" type="double">
+        <default>0.0</default>
+      </attribute>
+      <attribute id="eccentricity" title="Eccentricity" type="double">
+        <default>0.0</default>
+      </attribute>
+      <attribute id="closnesscentrality" title="Closeness Centrality" type="double">
+        <default>0.0</default>
+      </attribute>
+      <attribute id="betweenesscentrality" title="Betweenness Centrality" type="double">
+        <default>0.0</default>
+      </attribute>
+      <attribute id="eigencentrality" title="Eigenvector Centrality" type="double">
+        <default>0.0</default>
+      </attribute>
+      <attribute id="Name" title="Name" type="string"></attribute>
+    </attributes>
+    <nodes>
+      <node id="32">
+        <attvalues>
+          <attvalue for="degree" value="0"></attvalue>
+          <attvalue for="weighted degree" value="0.0"></attvalue>
+          <attvalue for="eccentricity" value="0.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="eigencentrality" value="0.0"></attvalue>
+          <attvalue for="Name" value="Ron Osgood,"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-110.7493" y="5.3859253" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="34">
+        <attvalues>
+          <attvalue for="degree" value="0"></attvalue>
+          <attvalue for="weighted degree" value="0.0"></attvalue>
+          <attvalue for="eccentricity" value="0.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="eigencentrality" value="0.0"></attvalue>
+          <attvalue for="Name" value="Norbert Herber,"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="65.30267" y="228.03369" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="59">
+        <attvalues>
+          <attvalue for="degree" value="0"></attvalue>
+          <attvalue for="weighted degree" value="0.0"></attvalue>
+          <attvalue for="eccentricity" value="0.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="eigencentrality" value="0.0"></attvalue>
+          <attvalue for="Name" value="Nick Homenda,"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="451.9643" y="414.32495" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="61">
+        <attvalues>
+          <attvalue for="degree" value="0"></attvalue>
+          <attvalue for="weighted degree" value="0.0"></attvalue>
+          <attvalue for="eccentricity" value="0.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="eigencentrality" value="0.0"></attvalue>
+          <attvalue for="Name" value="Ellen McKay,"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="429.90228" y="377.31647" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="74">
+        <attvalues>
+          <attvalue for="degree" value="0"></attvalue>
+          <attvalue for="weighted degree" value="0.0"></attvalue>
+          <attvalue for="eccentricity" value="0.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="eigencentrality" value="0.0"></attvalue>
+          <attvalue for="Name" value="Music,"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="129.78937" y="-372.27927" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="80">
+        <attvalues>
+          <attvalue for="degree" value="0"></attvalue>
+          <attvalue for="weighted degree" value="0.0"></attvalue>
+          <attvalue for="eccentricity" value="0.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="eigencentrality" value="0.0"></attvalue>
+          <attvalue for="Name" value="Archives of Traditional Music,"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-266.66693" y="-65.535065" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="119">
+        <attvalues>
+          <attvalue for="degree" value="0"></attvalue>
+          <attvalue for="weighted degree" value="0.0"></attvalue>
+          <attvalue for="eccentricity" value="0.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="eigencentrality" value="0.0"></attvalue>
+          <attvalue for="Name" value="Vietnam War: Stories from All Sides,"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-210.1734" y="-155.45795" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="124">
+        <attvalues>
+          <attvalue for="degree" value="0"></attvalue>
+          <attvalue for="weighted degree" value="0.0"></attvalue>
+          <attvalue for="eccentricity" value="0.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="eigencentrality" value="0.0"></attvalue>
+          <attvalue for="Name" value="Digital Initiatives,"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="391.7196" y="-414.42645" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="23" label="23">
+        <attvalues>
+          <attvalue for="degree" value="6"></attvalue>
+          <attvalue for="weighted degree" value="6.0"></attvalue>
+          <attvalue for="eccentricity" value="10.0"></attvalue>
+          <attvalue for="closnesscentrality" value="4.452830188679245"></attvalue>
+          <attvalue for="betweenesscentrality" value="942.7005835924488"></attvalue>
+          <attvalue for="eigencentrality" value="0.6319574825163069"></attvalue>
+          <attvalue for="Name" value="Richard Higgins,23"></attvalue>
+        </attvalues>
+        <viz:size value="18.636364"></viz:size>
+        <viz:position x="34.777653" y="-442.53967" z="0.0"></viz:position>
+        <viz:color r="89" g="116" b="236"></viz:color>
+      </node>
+      <node id="41" label="41">
+        <attvalues>
+          <attvalue for="degree" value="7"></attvalue>
+          <attvalue for="weighted degree" value="7.0"></attvalue>
+          <attvalue for="eccentricity" value="11.0"></attvalue>
+          <attvalue for="closnesscentrality" value="5.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="796.2169668843396"></attvalue>
+          <attvalue for="eigencentrality" value="0.32035782993016415"></attvalue>
+          <attvalue for="Name" value="Tassie Gniady,41"></attvalue>
+        </attvalues>
+        <viz:size value="21.363636"></viz:size>
+        <viz:position x="-520.254" y="407.7265" z="0.0"></viz:position>
+        <viz:color r="223" g="89" b="236"></viz:color>
+      </node>
+      <node id="48" label="48">
+        <attvalues>
+          <attvalue for="degree" value="8"></attvalue>
+          <attvalue for="weighted degree" value="8.0"></attvalue>
+          <attvalue for="eccentricity" value="9.0"></attvalue>
+          <attvalue for="closnesscentrality" value="3.943396226415094"></attvalue>
+          <attvalue for="betweenesscentrality" value="1720.6878450078248"></attvalue>
+          <attvalue for="eigencentrality" value="0.7132247320872516"></attvalue>
+          <attvalue for="Name" value="Michelle Dalmau,48"></attvalue>
+        </attvalues>
+        <viz:size value="24.090908"></viz:size>
+        <viz:position x="155.4115" y="379.6725" z="0.0"></viz:position>
+        <viz:color r="89" g="236" b="116"></viz:color>
+      </node>
+      <node id="70" label="70">
+        <attvalues>
+          <attvalue for="degree" value="9"></attvalue>
+          <attvalue for="weighted degree" value="9.0"></attvalue>
+          <attvalue for="eccentricity" value="9.0"></attvalue>
+          <attvalue for="closnesscentrality" value="4.40566037735849"></attvalue>
+          <attvalue for="betweenesscentrality" value="1016.6951143913986"></attvalue>
+          <attvalue for="eigencentrality" value="0.8542389753843949"></attvalue>
+          <attvalue for="Name" value="Information  Library Science,70"></attvalue>
+        </attvalues>
+        <viz:size value="26.818182"></viz:size>
+        <viz:position x="148.48755" y="-71.04223" z="0.0"></viz:position>
+        <viz:color r="142" g="236" b="89"></viz:color>
+      </node>
+      <node id="21" label="21">
+        <attvalues>
+          <attvalue for="degree" value="10"></attvalue>
+          <attvalue for="weighted degree" value="10.0"></attvalue>
+          <attvalue for="eccentricity" value="8.0"></attvalue>
+          <attvalue for="closnesscentrality" value="4.169811320754717"></attvalue>
+          <attvalue for="betweenesscentrality" value="1272.2497646345475"></attvalue>
+          <attvalue for="eigencentrality" value="1.0"></attvalue>
+          <attvalue for="Name" value="John Walsh,21"></attvalue>
+        </attvalues>
+        <viz:size value="29.545454"></viz:size>
+        <viz:position x="83.06306" y="175.53485" z="0.0"></viz:position>
+        <viz:color r="142" g="89" b="236"></viz:color>
+      </node>
+      <node id="78" label="78">
+        <attvalues>
+          <attvalue for="degree" value="11"></attvalue>
+          <attvalue for="weighted degree" value="12.0"></attvalue>
+          <attvalue for="eccentricity" value="8.0"></attvalue>
+          <attvalue for="closnesscentrality" value="3.8962264150943398"></attvalue>
+          <attvalue for="betweenesscentrality" value="2144.826759253842"></attvalue>
+          <attvalue for="eigencentrality" value="0.8565932995573952"></attvalue>
+          <attvalue for="Name" value="Wells Library,78"></attvalue>
+        </attvalues>
+        <viz:size value="35.0"></viz:size>
+        <viz:position x="207.0426" y="-140.2963" z="0.0"></viz:position>
+        <viz:color r="89" g="196" b="236"></viz:color>
+      </node>
+      <node id="98" label="98">
+        <attvalues>
+          <attvalue for="degree" value="5"></attvalue>
+          <attvalue for="weighted degree" value="5.0"></attvalue>
+          <attvalue for="eccentricity" value="8.0"></attvalue>
+          <attvalue for="closnesscentrality" value="4.066037735849057"></attvalue>
+          <attvalue for="betweenesscentrality" value="967.2059299023638"></attvalue>
+          <attvalue for="eigencentrality" value="0.5896407700984013"></attvalue>
+          <attvalue for="Name" value="Chymistry of Isaac Newton,98"></attvalue>
+        </attvalues>
+        <viz:size value="15.909091"></viz:size>
+        <viz:position x="455.78772" y="155.91632" z="0.0"></viz:position>
+        <viz:color r="236" g="89" b="169"></viz:color>
+      </node>
+      <node id="64" label="64">
+        <attvalues>
+          <attvalue for="degree" value="5"></attvalue>
+          <attvalue for="weighted degree" value="5.0"></attvalue>
+          <attvalue for="eccentricity" value="9.0"></attvalue>
+          <attvalue for="closnesscentrality" value="4.632075471698113"></attvalue>
+          <attvalue for="betweenesscentrality" value="513.7804159739411"></attvalue>
+          <attvalue for="eigencentrality" value="0.39008561853456425"></attvalue>
+          <attvalue for="Name" value="English,64"></attvalue>
+        </attvalues>
+        <viz:size value="15.909091"></viz:size>
+        <viz:position x="-187.01358" y="397.57855" z="0.0"></viz:position>
+        <viz:color r="236" g="89" b="169"></viz:color>
+      </node>
+      <node id="51" label="51">
+        <attvalues>
+          <attvalue for="degree" value="5"></attvalue>
+          <attvalue for="weighted degree" value="5.0"></attvalue>
+          <attvalue for="eccentricity" value="8.0"></attvalue>
+          <attvalue for="closnesscentrality" value="4.490566037735849"></attvalue>
+          <attvalue for="betweenesscentrality" value="576.1060317421487"></attvalue>
+          <attvalue for="eigencentrality" value="0.363713376348759"></attvalue>
+          <attvalue for="Name" value="Will Cowan,51"></attvalue>
+        </attvalues>
+        <viz:size value="15.909091"></viz:size>
+        <viz:position x="438.5611" y="-467.506" z="0.0"></viz:position>
+        <viz:color r="236" g="89" b="169"></viz:color>
+      </node>
+      <node id="109" label="109">
+        <attvalues>
+          <attvalue for="degree" value="5"></attvalue>
+          <attvalue for="weighted degree" value="5.0"></attvalue>
+          <attvalue for="eccentricity" value="9.0"></attvalue>
+          <attvalue for="closnesscentrality" value="4.952830188679245"></attvalue>
+          <attvalue for="betweenesscentrality" value="607.166653278748"></attvalue>
+          <attvalue for="eigencentrality" value="0.20764364074747488"></attvalue>
+          <attvalue for="Name" value="Media Data Preservation Initiative ,109"></attvalue>
+        </attvalues>
+        <viz:size value="15.909091"></viz:size>
+        <viz:position x="443.1267" y="97.17585" z="0.0"></viz:position>
+        <viz:color r="236" g="89" b="169"></viz:color>
+      </node>
+      <node id="5" label="5">
+        <attvalues>
+          <attvalue for="degree" value="4"></attvalue>
+          <attvalue for="weighted degree" value="4.0"></attvalue>
+          <attvalue for="eccentricity" value="8.0"></attvalue>
+          <attvalue for="closnesscentrality" value="4.415094339622642"></attvalue>
+          <attvalue for="betweenesscentrality" value="368.1999137207611"></attvalue>
+          <attvalue for="eigencentrality" value="0.48888882529883504"></attvalue>
+          <attvalue for="Name" value="Grant Simpson,5"></attvalue>
+        </attvalues>
+        <viz:size value="13.181818"></viz:size>
+        <viz:position x="341.12225" y="-166.2995" z="0.0"></viz:position>
+        <viz:color r="89" g="236" b="196"></viz:color>
+      </node>
+      <node id="28" label="28">
+        <attvalues>
+          <attvalue for="degree" value="4"></attvalue>
+          <attvalue for="weighted degree" value="4.0"></attvalue>
+          <attvalue for="eccentricity" value="11.0"></attvalue>
+          <attvalue for="closnesscentrality" value="5.622641509433962"></attvalue>
+          <attvalue for="betweenesscentrality" value="470.73489793720194"></attvalue>
+          <attvalue for="eigencentrality" value="0.12252726492918602"></attvalue>
+          <attvalue for="Name" value="Beth Plale,28"></attvalue>
+        </attvalues>
+        <viz:size value="13.181818"></viz:size>
+        <viz:position x="407.646" y="-19.113369" z="0.0"></viz:position>
+        <viz:color r="89" g="236" b="196"></viz:color>
+      </node>
+      <node id="27" label="27">
+        <attvalues>
+          <attvalue for="degree" value="4"></attvalue>
+          <attvalue for="weighted degree" value="4.0"></attvalue>
+          <attvalue for="eccentricity" value="13.0"></attvalue>
+          <attvalue for="closnesscentrality" value="6.39622641509434"></attvalue>
+          <attvalue for="betweenesscentrality" value="272.11588804862225"></attvalue>
+          <attvalue for="eigencentrality" value="0.12659042950561922"></attvalue>
+          <attvalue for="Name" value="Bernie Frischer,27"></attvalue>
+        </attvalues>
+        <viz:size value="13.181818"></viz:size>
+        <viz:position x="-421.5609" y="-210.56802" z="0.0"></viz:position>
+        <viz:color r="89" g="236" b="196"></viz:color>
+      </node>
+      <node id="104" label="104">
+        <attvalues>
+          <attvalue for="degree" value="4"></attvalue>
+          <attvalue for="weighted degree" value="4.0"></attvalue>
+          <attvalue for="eccentricity" value="9.0"></attvalue>
+          <attvalue for="closnesscentrality" value="4.462264150943396"></attvalue>
+          <attvalue for="betweenesscentrality" value="466.3457826345312"></attvalue>
+          <attvalue for="eigencentrality" value="0.2033020337694952"></attvalue>
+          <attvalue for="Name" value="EVIA,104"></attvalue>
+        </attvalues>
+        <viz:size value="13.181818"></viz:size>
+        <viz:position x="187.98877" y="-281.93683" z="0.0"></viz:position>
+        <viz:color r="89" g="236" b="196"></viz:color>
+      </node>
+      <node id="89" label="89">
+        <attvalues>
+          <attvalue for="degree" value="4"></attvalue>
+          <attvalue for="weighted degree" value="4.0"></attvalue>
+          <attvalue for="eccentricity" value="8.0"></attvalue>
+          <attvalue for="closnesscentrality" value="4.160377358490566"></attvalue>
+          <attvalue for="betweenesscentrality" value="766.5476330202932"></attvalue>
+          <attvalue for="eigencentrality" value="0.21277202461095923"></attvalue>
+          <attvalue for="Name" value="Institute for Digital Arts and Humanities,89"></attvalue>
+        </attvalues>
+        <viz:size value="13.181818"></viz:size>
+        <viz:position x="228.11218" y="-101.45034" z="0.0"></viz:position>
+        <viz:color r="89" g="236" b="196"></viz:color>
+      </node>
+      <node id="77" label="77">
+        <attvalues>
+          <attvalue for="degree" value="4"></attvalue>
+          <attvalue for="weighted degree" value="4.0"></attvalue>
+          <attvalue for="eccentricity" value="10.0"></attvalue>
+          <attvalue for="closnesscentrality" value="5.028301886792453"></attvalue>
+          <attvalue for="betweenesscentrality" value="375.4697780237624"></attvalue>
+          <attvalue for="eigencentrality" value="0.20804488505633842"></attvalue>
+          <attvalue for="Name" value="UITS,77"></attvalue>
+        </attvalues>
+        <viz:size value="13.181818"></viz:size>
+        <viz:position x="-337.88202" y="-9.276271" z="0.0"></viz:position>
+        <viz:color r="89" g="236" b="196"></viz:color>
+      </node>
+      <node id="52" label="52">
+        <attvalues>
+          <attvalue for="degree" value="3"></attvalue>
+          <attvalue for="weighted degree" value="3.0"></attvalue>
+          <attvalue for="eccentricity" value="10.0"></attvalue>
+          <attvalue for="closnesscentrality" value="5.264150943396227"></attvalue>
+          <attvalue for="betweenesscentrality" value="163.80656185919347"></attvalue>
+          <attvalue for="eigencentrality" value="0.13213807808436132"></attvalue>
+          <attvalue for="Name" value="Alan Burdette,52"></attvalue>
+        </attvalues>
+        <viz:size value="10.454546"></viz:size>
+        <viz:position x="440.94098" y="-81.55508" z="0.0"></viz:position>
+        <viz:color r="236" g="169" b="89"></viz:color>
+      </node>
+      <node id="45" label="45">
+        <attvalues>
+          <attvalue for="degree" value="3"></attvalue>
+          <attvalue for="weighted degree" value="3.0"></attvalue>
+          <attvalue for="eccentricity" value="9.0"></attvalue>
+          <attvalue for="closnesscentrality" value="4.849056603773585"></attvalue>
+          <attvalue for="betweenesscentrality" value="209.0"></attvalue>
+          <attvalue for="eigencentrality" value="0.2435925137205197"></attvalue>
+          <attvalue for="Name" value="Jon Dunn,45"></attvalue>
+        </attvalues>
+        <viz:size value="10.454546"></viz:size>
+        <viz:position x="195.8064" y="-273.59717" z="0.0"></viz:position>
+        <viz:color r="236" g="169" b="89"></viz:color>
+      </node>
+      <node id="95" label="95">
+        <attvalues>
+          <attvalue for="degree" value="3"></attvalue>
+          <attvalue for="weighted degree" value="3.0"></attvalue>
+          <attvalue for="eccentricity" value="11.0"></attvalue>
+          <attvalue for="closnesscentrality" value="6.330188679245283"></attvalue>
+          <attvalue for="betweenesscentrality" value="1.5"></attvalue>
+          <attvalue for="eigencentrality" value="0.1758513286071703"></attvalue>
+          <attvalue for="Name" value="Cascades, Islands, or Streams?,95"></attvalue>
+        </attvalues>
+        <viz:size value="10.454546"></viz:size>
+        <viz:position x="374.0503" y="341.25763" z="0.0"></viz:position>
+        <viz:color r="236" g="169" b="89"></viz:color>
+      </node>
+      <node id="17" label="17">
+        <attvalues>
+          <attvalue for="degree" value="3"></attvalue>
+          <attvalue for="weighted degree" value="3.0"></attvalue>
+          <attvalue for="eccentricity" value="8.0"></attvalue>
+          <attvalue for="closnesscentrality" value="4.773584905660377"></attvalue>
+          <attvalue for="betweenesscentrality" value="449.8776315501"></attvalue>
+          <attvalue for="eigencentrality" value="0.24314674758634264"></attvalue>
+          <attvalue for="Name" value="Bill Newman,17"></attvalue>
+        </attvalues>
+        <viz:size value="10.454546"></viz:size>
+        <viz:position x="-295.44037" y="-165.96783" z="0.0"></viz:position>
+        <viz:color r="236" g="169" b="89"></viz:color>
+      </node>
+      <node id="82" label="82">
+        <attvalues>
+          <attvalue for="degree" value="3"></attvalue>
+          <attvalue for="weighted degree" value="3.0"></attvalue>
+          <attvalue for="eccentricity" value="9.0"></attvalue>
+          <attvalue for="closnesscentrality" value="4.933962264150943"></attvalue>
+          <attvalue for="betweenesscentrality" value="121.44516714875526"></attvalue>
+          <attvalue for="eigencentrality" value="0.339694451230169"></attvalue>
+          <attvalue for="Name" value="Catapult Center,82"></attvalue>
+        </attvalues>
+        <viz:size value="10.454546"></viz:size>
+        <viz:position x="-292.10812" y="-305.6375" z="0.0"></viz:position>
+        <viz:color r="236" g="169" b="89"></viz:color>
+      </node>
+      <node id="20" label="20">
+        <attvalues>
+          <attvalue for="degree" value="3"></attvalue>
+          <attvalue for="weighted degree" value="3.0"></attvalue>
+          <attvalue for="eccentricity" value="10.0"></attvalue>
+          <attvalue for="closnesscentrality" value="5.320754716981132"></attvalue>
+          <attvalue for="betweenesscentrality" value="48.955263157894734"></attvalue>
+          <attvalue for="eigencentrality" value="0.38468440942091847"></attvalue>
+          <attvalue for="Name" value="Grace Thomas,20"></attvalue>
+        </attvalues>
+        <viz:size value="10.454546"></viz:size>
+        <viz:position x="295.32318" y="168.41241" z="0.0"></viz:position>
+        <viz:color r="236" g="169" b="89"></viz:color>
+      </node>
+      <node id="99" label="99">
+        <attvalues>
+          <attvalue for="degree" value="3"></attvalue>
+          <attvalue for="weighted degree" value="3.0"></attvalue>
+          <attvalue for="eccentricity" value="9.0"></attvalue>
+          <attvalue for="closnesscentrality" value="4.5754716981132075"></attvalue>
+          <attvalue for="betweenesscentrality" value="152.76358874573768"></attvalue>
+          <attvalue for="eigencentrality" value="0.465333689798518"></attvalue>
+          <attvalue for="Name" value="Comic Readership Archive,99"></attvalue>
+        </attvalues>
+        <viz:size value="10.454546"></viz:size>
+        <viz:position x="173.85693" y="38.19605" z="0.0"></viz:position>
+        <viz:color r="236" g="169" b="89"></viz:color>
+      </node>
+      <node id="39" label="39">
+        <attvalues>
+          <attvalue for="degree" value="3"></attvalue>
+          <attvalue for="weighted degree" value="3.0"></attvalue>
+          <attvalue for="eccentricity" value="11.0"></attvalue>
+          <attvalue for="closnesscentrality" value="5.0754716981132075"></attvalue>
+          <attvalue for="betweenesscentrality" value="295.4595799979096"></attvalue>
+          <attvalue for="eigencentrality" value="0.17200453926327788"></attvalue>
+          <attvalue for="Name" value="Eric Wernert,39"></attvalue>
+        </attvalues>
+        <viz:size value="10.454546"></viz:size>
+        <viz:position x="215.98816" y="466.30304" z="0.0"></viz:position>
+        <viz:color r="236" g="169" b="89"></viz:color>
+      </node>
+      <node id="84" label="84">
+        <attvalues>
+          <attvalue for="degree" value="3"></attvalue>
+          <attvalue for="weighted degree" value="3.0"></attvalue>
+          <attvalue for="eccentricity" value="11.0"></attvalue>
+          <attvalue for="closnesscentrality" value="4.8584905660377355"></attvalue>
+          <attvalue for="betweenesscentrality" value="435.9922802809255"></attvalue>
+          <attvalue for="eigencentrality" value="0.28516665116709783"></attvalue>
+          <attvalue for="Name" value="CyberDH,84"></attvalue>
+        </attvalues>
+        <viz:size value="10.454546"></viz:size>
+        <viz:position x="272.2691" y="-488.40186" z="0.0"></viz:position>
+        <viz:color r="236" g="169" b="89"></viz:color>
+      </node>
+      <node id="4" label="4">
+        <attvalues>
+          <attvalue for="degree" value="3"></attvalue>
+          <attvalue for="weighted degree" value="3.0"></attvalue>
+          <attvalue for="eccentricity" value="9.0"></attvalue>
+          <attvalue for="closnesscentrality" value="4.528301886792453"></attvalue>
+          <attvalue for="betweenesscentrality" value="266.7371262638146"></attvalue>
+          <attvalue for="eigencentrality" value="0.22182136624360402"></attvalue>
+          <attvalue for="Name" value="Ellen MacKay,4"></attvalue>
+        </attvalues>
+        <viz:size value="10.454546"></viz:size>
+        <viz:position x="344.02722" y="25.246586" z="0.0"></viz:position>
+        <viz:color r="236" g="169" b="89"></viz:color>
+      </node>
+      <node id="29" label="29">
+        <attvalues>
+          <attvalue for="degree" value="3"></attvalue>
+          <attvalue for="weighted degree" value="3.0"></attvalue>
+          <attvalue for="eccentricity" value="13.0"></attvalue>
+          <attvalue for="closnesscentrality" value="7.377358490566038"></attvalue>
+          <attvalue for="betweenesscentrality" value="25.80324675324676"></attvalue>
+          <attvalue for="eigencentrality" value="0.08812697748845874"></attvalue>
+          <attvalue for="Name" value="Matthew Brennan,29"></attvalue>
+        </attvalues>
+        <viz:size value="10.454546"></viz:size>
+        <viz:position x="-129.85327" y="-313.06952" z="0.0"></viz:position>
+        <viz:color r="236" g="169" b="89"></viz:color>
+      </node>
+      <node id="49" label="49">
+        <attvalues>
+          <attvalue for="degree" value="3"></attvalue>
+          <attvalue for="weighted degree" value="4.0"></attvalue>
+          <attvalue for="eccentricity" value="9.0"></attvalue>
+          <attvalue for="closnesscentrality" value="4.849056603773585"></attvalue>
+          <attvalue for="betweenesscentrality" value="81.54614959114957"></attvalue>
+          <attvalue for="eigencentrality" value="0.3011880746759375"></attvalue>
+          <attvalue for="Name" value="Nick Homeda,49"></attvalue>
+        </attvalues>
+        <viz:size value="13.181818"></viz:size>
+        <viz:position x="156.3097" y="437.2658" z="0.0"></viz:position>
+        <viz:color r="236" g="169" b="89"></viz:color>
+      </node>
+      <node id="6" label="6">
+        <attvalues>
+          <attvalue for="degree" value="3"></attvalue>
+          <attvalue for="weighted degree" value="3.0"></attvalue>
+          <attvalue for="eccentricity" value="10.0"></attvalue>
+          <attvalue for="closnesscentrality" value="5.584905660377358"></attvalue>
+          <attvalue for="betweenesscentrality" value="156.5"></attvalue>
+          <attvalue for="eigencentrality" value="0.13314391772085604"></attvalue>
+          <attvalue for="Name" value="Justin Hodgson,6"></attvalue>
+        </attvalues>
+        <viz:size value="10.454546"></viz:size>
+        <viz:position x="-28.595943" y="-483.5733" z="0.0"></viz:position>
+        <viz:color r="236" g="169" b="89"></viz:color>
+      </node>
+      <node id="56" label="56">
+        <attvalues>
+          <attvalue for="degree" value="3"></attvalue>
+          <attvalue for="weighted degree" value="3.0"></attvalue>
+          <attvalue for="eccentricity" value="9.0"></attvalue>
+          <attvalue for="closnesscentrality" value="4.39622641509434"></attvalue>
+          <attvalue for="betweenesscentrality" value="452.60164226935683"></attvalue>
+          <attvalue for="eigencentrality" value="0.18853804473227442"></attvalue>
+          <attvalue for="Name" value="Clara Henderson,56"></attvalue>
+        </attvalues>
+        <viz:size value="10.454546"></viz:size>
+        <viz:position x="-418.57556" y="446.19226" z="0.0"></viz:position>
+        <viz:color r="236" g="169" b="89"></viz:color>
+      </node>
+      <node id="65" label="65">
+        <attvalues>
+          <attvalue for="degree" value="3"></attvalue>
+          <attvalue for="weighted degree" value="3.0"></attvalue>
+          <attvalue for="eccentricity" value="10.0"></attvalue>
+          <attvalue for="closnesscentrality" value="5.688679245283019"></attvalue>
+          <attvalue for="betweenesscentrality" value="209.0"></attvalue>
+          <attvalue for="eigencentrality" value="0.059652575979893964"></attvalue>
+          <attvalue for="Name" value="Fine Arts,65"></attvalue>
+        </attvalues>
+        <viz:size value="10.454546"></viz:size>
+        <viz:position x="91.8393" y="166.98865" z="0.0"></viz:position>
+        <viz:color r="236" g="169" b="89"></viz:color>
+      </node>
+      <node id="8" label="8">
+        <attvalues>
+          <attvalue for="degree" value="3"></attvalue>
+          <attvalue for="weighted degree" value="3.0"></attvalue>
+          <attvalue for="eccentricity" value="9.0"></attvalue>
+          <attvalue for="closnesscentrality" value="4.735849056603773"></attvalue>
+          <attvalue for="betweenesscentrality" value="580.6706919584559"></attvalue>
+          <attvalue for="eigencentrality" value="0.12154724904269706"></attvalue>
+          <attvalue for="Name" value="Margaret Dolinsky,8"></attvalue>
+        </attvalues>
+        <viz:size value="10.454546"></viz:size>
+        <viz:position x="-333.6419" y="-235.97794" z="0.0"></viz:position>
+        <viz:color r="236" g="169" b="89"></viz:color>
+      </node>
+      <node id="11" label="11">
+        <attvalues>
+          <attvalue for="degree" value="3"></attvalue>
+          <attvalue for="weighted degree" value="3.0"></attvalue>
+          <attvalue for="eccentricity" value="10.0"></attvalue>
+          <attvalue for="closnesscentrality" value="5.90566037735849"></attvalue>
+          <attvalue for="betweenesscentrality" value="209.0"></attvalue>
+          <attvalue for="eigencentrality" value="0.08451486514638856"></attvalue>
+          <attvalue for="Name" value="Jason Jackson,11"></attvalue>
+        </attvalues>
+        <viz:size value="10.454546"></viz:size>
+        <viz:position x="376.0769" y="-359.97256" z="0.0"></viz:position>
+        <viz:color r="236" g="169" b="89"></viz:color>
+      </node>
+      <node id="122" label="122">
+        <attvalues>
+          <attvalue for="degree" value="3"></attvalue>
+          <attvalue for="weighted degree" value="3.0"></attvalue>
+          <attvalue for="eccentricity" value="10.0"></attvalue>
+          <attvalue for="closnesscentrality" value="4.518867924528302"></attvalue>
+          <attvalue for="betweenesscentrality" value="567.6952836827062"></attvalue>
+          <attvalue for="eigencentrality" value="0.288370383538633"></attvalue>
+          <attvalue for="Name" value="HASTAC,122"></attvalue>
+        </attvalues>
+        <viz:size value="10.454546"></viz:size>
+        <viz:position x="-311.2859" y="-449.76944" z="0.0"></viz:position>
+        <viz:color r="236" g="169" b="89"></viz:color>
+      </node>
+      <node id="88" label="88">
+        <attvalues>
+          <attvalue for="degree" value="3"></attvalue>
+          <attvalue for="weighted degree" value="3.0"></attvalue>
+          <attvalue for="eccentricity" value="11.0"></attvalue>
+          <attvalue for="closnesscentrality" value="6.047169811320755"></attvalue>
+          <attvalue for="betweenesscentrality" value="268.41296468811845"></attvalue>
+          <attvalue for="eigencentrality" value="0.08033228236270008"></attvalue>
+          <attvalue for="Name" value="Hathi Trust Research Center,88"></attvalue>
+        </attvalues>
+        <viz:size value="10.454546"></viz:size>
+        <viz:position x="-42.862698" y="-66.690575" z="0.0"></viz:position>
+        <viz:color r="236" g="169" b="89"></viz:color>
+      </node>
+      <node id="18" label="18">
+        <attvalues>
+          <attvalue for="degree" value="3"></attvalue>
+          <attvalue for="weighted degree" value="3.0"></attvalue>
+          <attvalue for="eccentricity" value="10.0"></attvalue>
+          <attvalue for="closnesscentrality" value="5.849056603773585"></attvalue>
+          <attvalue for="betweenesscentrality" value="380.50843196593894"></attvalue>
+          <attvalue for="eigencentrality" value="0.07164346130543503"></attvalue>
+          <attvalue for="Name" value="Colin Allen,18"></attvalue>
+        </attvalues>
+        <viz:size value="10.454546"></viz:size>
+        <viz:position x="442.9897" y="445.03906" z="0.0"></viz:position>
+        <viz:color r="236" g="169" b="89"></viz:color>
+      </node>
+      <node id="68" label="68">
+        <attvalues>
+          <attvalue for="degree" value="3"></attvalue>
+          <attvalue for="weighted degree" value="3.0"></attvalue>
+          <attvalue for="eccentricity" value="12.0"></attvalue>
+          <attvalue for="closnesscentrality" value="6.650943396226415"></attvalue>
+          <attvalue for="betweenesscentrality" value="311.0"></attvalue>
+          <attvalue for="eigencentrality" value="0.04971573004051744"></attvalue>
+          <attvalue for="Name" value="History,68"></attvalue>
+        </attvalues>
+        <viz:size value="10.454546"></viz:size>
+        <viz:position x="-255.59988" y="-269.56665" z="0.0"></viz:position>
+        <viz:color r="236" g="169" b="89"></viz:color>
+      </node>
+      <node id="71" label="71">
+        <attvalues>
+          <attvalue for="degree" value="3"></attvalue>
+          <attvalue for="weighted degree" value="3.0"></attvalue>
+          <attvalue for="eccentricity" value="12.0"></attvalue>
+          <attvalue for="closnesscentrality" value="6.4245283018867925"></attvalue>
+          <attvalue for="betweenesscentrality" value="164.10434887463143"></attvalue>
+          <attvalue for="eigencentrality" value="0.1136613333090861"></attvalue>
+          <attvalue for="Name" value="Informatics,71"></attvalue>
+        </attvalues>
+        <viz:size value="10.454546"></viz:size>
+        <viz:position x="74.374886" y="232.79749" z="0.0"></viz:position>
+        <viz:color r="236" g="169" b="89"></viz:color>
+      </node>
+      <node id="107" label="107">
+        <attvalues>
+          <attvalue for="degree" value="3"></attvalue>
+          <attvalue for="weighted degree" value="3.0"></attvalue>
+          <attvalue for="eccentricity" value="10.0"></attvalue>
+          <attvalue for="closnesscentrality" value="4.80188679245283"></attvalue>
+          <attvalue for="betweenesscentrality" value="703.0"></attvalue>
+          <attvalue for="eigencentrality" value="0.21526230448692352"></attvalue>
+          <attvalue for="Name" value="Mapping World History,107"></attvalue>
+        </attvalues>
+        <viz:size value="10.454546"></viz:size>
+        <viz:position x="191.47198" y="-80.28164" z="0.0"></viz:position>
+        <viz:color r="236" g="169" b="89"></viz:color>
+      </node>
+      <node id="91" label="91">
+        <attvalues>
+          <attvalue for="degree" value="3"></attvalue>
+          <attvalue for="weighted degree" value="3.0"></attvalue>
+          <attvalue for="eccentricity" value="10.0"></attvalue>
+          <attvalue for="closnesscentrality" value="4.952830188679245"></attvalue>
+          <attvalue for="betweenesscentrality" value="500.17708506757236"></attvalue>
+          <attvalue for="eigencentrality" value="0.12804374474482177"></attvalue>
+          <attvalue for="Name" value="Pervasive Technology Institute,91"></attvalue>
+        </attvalues>
+        <viz:size value="10.454546"></viz:size>
+        <viz:position x="116.37281" y="-292.4937" z="0.0"></viz:position>
+        <viz:color r="236" g="169" b="89"></viz:color>
+      </node>
+      <node id="113" label="113">
+        <attvalues>
+          <attvalue for="degree" value="3"></attvalue>
+          <attvalue for="weighted degree" value="3.0"></attvalue>
+          <attvalue for="eccentricity" value="9.0"></attvalue>
+          <attvalue for="closnesscentrality" value="5.10377358490566"></attvalue>
+          <attvalue for="betweenesscentrality" value="224.3808880117703"></attvalue>
+          <attvalue for="eigencentrality" value="0.342403982212638"></attvalue>
+          <attvalue for="Name" value="Petrarchive,113"></attvalue>
+        </attvalues>
+        <viz:size value="10.454546"></viz:size>
+        <viz:position x="-368.29486" y="93.34461" z="0.0"></viz:position>
+        <viz:color r="236" g="169" b="89"></viz:color>
+      </node>
+      <node id="115" label="115">
+        <attvalues>
+          <attvalue for="degree" value="3"></attvalue>
+          <attvalue for="weighted degree" value="3.0"></attvalue>
+          <attvalue for="eccentricity" value="9.0"></attvalue>
+          <attvalue for="closnesscentrality" value="4.19811320754717"></attvalue>
+          <attvalue for="betweenesscentrality" value="611.8319346404264"></attvalue>
+          <attvalue for="eigencentrality" value="0.5103268288537047"></attvalue>
+          <attvalue for="Name" value="TEI Boilerplate,115"></attvalue>
+        </attvalues>
+        <viz:size value="10.454546"></viz:size>
+        <viz:position x="311.3172" y="-451.58713" z="0.0"></viz:position>
+        <viz:color r="236" g="169" b="89"></viz:color>
+      </node>
+      <node id="120" label="120">
+        <attvalues>
+          <attvalue for="degree" value="3"></attvalue>
+          <attvalue for="weighted degree" value="3.0"></attvalue>
+          <attvalue for="eccentricity" value="9.0"></attvalue>
+          <attvalue for="closnesscentrality" value="5.4245283018867925"></attvalue>
+          <attvalue for="betweenesscentrality" value="213.43933747412007"></attvalue>
+          <attvalue for="eigencentrality" value="0.17617459874134006"></attvalue>
+          <attvalue for="Name" value="War of 1812,120"></attvalue>
+        </attvalues>
+        <viz:size value="10.454546"></viz:size>
+        <viz:position x="-435.42294" y="328.89862" z="0.0"></viz:position>
+        <viz:color r="236" g="169" b="89"></viz:color>
+      </node>
+      <node id="79" label="79">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+          <attvalue for="eccentricity" value="4.0"></attvalue>
+          <attvalue for="closnesscentrality" value="2.5"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="eigencentrality" value="0.01228481615123166"></attvalue>
+          <attvalue for="Name" value="American Indian Studies Research Institute,79"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-505.1913" y="435.42346" z="0.0"></viz:position>
+        <viz:color r="236" g="89" b="89"></viz:color>
+      </node>
+      <node id="62" label="62">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+          <attvalue for="eccentricity" value="2.0"></attvalue>
+          <attvalue for="closnesscentrality" value="1.5"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="eigencentrality" value="0.010213264189672524"></attvalue>
+          <attvalue for="Name" value="American Studies,62"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-149.18896" y="-34.728725" z="0.0"></viz:position>
+        <viz:color r="236" g="89" b="89"></viz:color>
+      </node>
+      <node id="131" label="131">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+          <attvalue for="eccentricity" value="11.0"></attvalue>
+          <attvalue for="closnesscentrality" value="6.254716981132075"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="eigencentrality" value="0.0402086212560418"></attvalue>
+          <attvalue for="Name" value="131"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="344.58655" y="-484.5" z="0.0"></viz:position>
+        <viz:color r="236" g="89" b="89"></viz:color>
+      </node>
+      <node id="94" label="94">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+          <attvalue for="eccentricity" value="10.0"></attvalue>
+          <attvalue for="closnesscentrality" value="5.839622641509434"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="eigencentrality" value="0.06184447888760985"></attvalue>
+          <attvalue for="Name" value="Avalon,94"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="180.67554" y="-93.57925" z="0.0"></viz:position>
+        <viz:color r="236" g="89" b="89"></viz:color>
+      </node>
+      <node id="81" label="81">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+          <attvalue for="eccentricity" value="2.0"></attvalue>
+          <attvalue for="closnesscentrality" value="1.5"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="eigencentrality" value="0.010213264189672524"></attvalue>
+          <attvalue for="Name" value="Black Film Archive,81"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-67.597374" y="-71.6307" z="0.0"></viz:position>
+        <viz:color r="236" g="89" b="89"></viz:color>
+      </node>
+      <node id="97" label="97">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+          <attvalue for="eccentricity" value="10.0"></attvalue>
+          <attvalue for="closnesscentrality" value="4.933962264150943"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="eigencentrality" value="0.16913783165776022"></attvalue>
+          <attvalue for="Name" value="Charles Cushman Photographs,97"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="159.2362" y="300.24182" z="0.0"></viz:position>
+        <viz:color r="236" g="89" b="89"></viz:color>
+      </node>
+      <node id="54" label="54">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+          <attvalue for="eccentricity" value="12.0"></attvalue>
+          <attvalue for="closnesscentrality" value="7.320754716981132"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="eigencentrality" value="0.01978102887976807"></attvalue>
+          <attvalue for="Name" value="Scott Weingart,54"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-268.1761" y="414.69812" z="0.0"></viz:position>
+        <viz:color r="236" g="89" b="89"></viz:color>
+      </node>
+      <node id="85" label="85">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+          <attvalue for="eccentricity" value="12.0"></attvalue>
+          <attvalue for="closnesscentrality" value="6.613207547169812"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="eigencentrality" value="0.041365552490053865"></attvalue>
+          <attvalue for="Name" value="Data to Insight Center,85"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="181.09607" y="458.71082" z="0.0"></viz:position>
+        <viz:color r="236" g="89" b="89"></viz:color>
+      </node>
+      <node id="103" label="103">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+          <attvalue for="eccentricity" value="12.0"></attvalue>
+          <attvalue for="closnesscentrality" value="5.990566037735849"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="eigencentrality" value="0.08842911027972478"></attvalue>
+          <attvalue for="Name" value="English Broadside Ballad Archive,103"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="203.39465" y="-470.6335" z="0.0"></viz:position>
+        <viz:color r="236" g="89" b="89"></viz:color>
+      </node>
+      <node id="12" label="12">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+          <attvalue for="eccentricity" value="10.0"></attvalue>
+          <attvalue for="closnesscentrality" value="5.452830188679245"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="eigencentrality" value="0.05724307255130293"></attvalue>
+          <attvalue for="Name" value="Ruth Stone,12"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="450.7857" y="433.97314" z="0.0"></viz:position>
+        <viz:color r="236" g="89" b="89"></viz:color>
+      </node>
+      <node id="105" label="105">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+          <attvalue for="eccentricity" value="12.0"></attvalue>
+          <attvalue for="closnesscentrality" value="5.990566037735849"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="eigencentrality" value="0.08842911027972478"></attvalue>
+          <attvalue for="Name" value="FemTechNet,105"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="91.053535" y="192.38171" z="0.0"></viz:position>
+        <viz:color r="236" g="89" b="89"></viz:color>
+      </node>
+      <node id="10" label="10">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+          <attvalue for="eccentricity" value="11.0"></attvalue>
+          <attvalue for="closnesscentrality" value="6.679245283018868"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="eigencentrality" value="0.023182379049240323"></attvalue>
+          <attvalue for="Name" value="Arthur Liou,10"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-271.73776" y="-451.60574" z="0.0"></viz:position>
+        <viz:color r="236" g="89" b="89"></viz:color>
+      </node>
+      <node id="9" label="9">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+          <attvalue for="eccentricity" value="11.0"></attvalue>
+          <attvalue for="closnesscentrality" value="6.679245283018868"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="eigencentrality" value="0.023182379049240323"></attvalue>
+          <attvalue for="Name" value="Peter Williams,9"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-250.68936" y="378.36707" z="0.0"></viz:position>
+        <viz:color r="236" g="89" b="89"></viz:color>
+      </node>
+      <node id="66" label="66">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+          <attvalue for="eccentricity" value="11.0"></attvalue>
+          <attvalue for="closnesscentrality" value="6.89622641509434"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="eigencentrality" value="0.029035352720057063"></attvalue>
+          <attvalue for="Name" value="Folklore and Ethnomusicology,66"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="432.31006" y="-405.38293" z="0.0"></viz:position>
+        <viz:color r="236" g="89" b="89"></viz:color>
+      </node>
+      <node id="67" label="67">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+          <attvalue for="eccentricity" value="11.0"></attvalue>
+          <attvalue for="closnesscentrality" value="7.066037735849057"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="eigencentrality" value="0.02541922684951924"></attvalue>
+          <attvalue for="Name" value="French and Italian,67"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-508.04926" y="90.2895" z="0.0"></viz:position>
+        <viz:color r="236" g="89" b="89"></viz:color>
+      </node>
+      <node id="86" label="86">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+          <attvalue for="eccentricity" value="4.0"></attvalue>
+          <attvalue for="closnesscentrality" value="2.5"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="eigencentrality" value="0.01228481615123166"></attvalue>
+          <attvalue for="Name" value="Glenn Black Lab,86"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="9.378545" y="422.7292" z="0.0"></viz:position>
+        <viz:color r="236" g="89" b="89"></viz:color>
+      </node>
+      <node id="55" label="55">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+          <attvalue for="eccentricity" value="12.0"></attvalue>
+          <attvalue for="closnesscentrality" value="7.037735849056604"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="eigencentrality" value="0.029379955969091504"></attvalue>
+          <attvalue for="Name" value="Dirk Herr-Hoyman,55"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="438.90918" y="-400.5448" z="0.0"></viz:position>
+        <viz:color r="236" g="89" b="89"></viz:color>
+      </node>
+      <node id="15" label="15">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+          <attvalue for="eccentricity" value="13.0"></attvalue>
+          <attvalue for="closnesscentrality" value="7.6415094339622645"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="eigencentrality" value="0.0211057046126301"></attvalue>
+          <attvalue for="Name" value="Kalani Craig,15"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-421.1974" y="190.81665" z="0.0"></viz:position>
+        <viz:color r="236" g="89" b="89"></viz:color>
+      </node>
+      <node id="87" label="87">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+          <attvalue for="eccentricity" value="14.0"></attvalue>
+          <attvalue for="closnesscentrality" value="8.61320754716981"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="eigencentrality" value="0.014469743343371519"></attvalue>
+          <attvalue for="Name" value="Humanities Intensive Learning and Teaching Institute,87"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="339.66278" y="17.840946" z="0.0"></viz:position>
+        <viz:color r="236" g="89" b="89"></viz:color>
+      </node>
+      <node id="58" label="58">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+          <attvalue for="eccentricity" value="12.0"></attvalue>
+          <attvalue for="closnesscentrality" value="7.811320754716981"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="eigencentrality" value="0.01574892752117242"></attvalue>
+          <attvalue for="Name" value="Jaimie Murdock,58"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-318.22372" y="398.83466" z="0.0"></viz:position>
+        <viz:color r="236" g="89" b="89"></viz:color>
+      </node>
+      <node id="26" label="26">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+          <attvalue for="eccentricity" value="10.0"></attvalue>
+          <attvalue for="closnesscentrality" value="5.39622641509434"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="eigencentrality" value="0.19849167907333745"></attvalue>
+          <attvalue for="Name" value="Vincent Malic,26"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="117.87525" y="-363.92603" z="0.0"></viz:position>
+        <viz:color r="236" g="89" b="89"></viz:color>
+      </node>
+      <node id="57" label="57">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+          <attvalue for="eccentricity" value="1.0"></attvalue>
+          <attvalue for="closnesscentrality" value="1.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="eigencentrality" value="0.005848739643488665"></attvalue>
+          <attvalue for="Name" value="Verlon Stone,57"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="75.12281" y="189.38953" z="0.0"></viz:position>
+        <viz:color r="236" g="89" b="89"></viz:color>
+      </node>
+      <node id="106" label="106">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+          <attvalue for="eccentricity" value="1.0"></attvalue>
+          <attvalue for="closnesscentrality" value="1.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="eigencentrality" value="0.005848739643488665"></attvalue>
+          <attvalue for="Name" value="Liberian Collections,106"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-204.64014" y="30.585331" z="0.0"></viz:position>
+        <viz:color r="236" g="89" b="89"></viz:color>
+      </node>
+      <node id="72" label="72">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+          <attvalue for="eccentricity" value="11.0"></attvalue>
+          <attvalue for="closnesscentrality" value="7.386792452830188"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="eigencentrality" value="0.01949746837831647"></attvalue>
+          <attvalue for="Name" value="Lilly Library,72"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-325.93808" y="371.99194" z="0.0"></viz:position>
+        <viz:color r="236" g="89" b="89"></viz:color>
+      </node>
+      <node id="90" label="90">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+          <attvalue for="eccentricity" value="11.0"></attvalue>
+          <attvalue for="closnesscentrality" value="6.89622641509434"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="eigencentrality" value="0.029035352720057063"></attvalue>
+          <attvalue for="Name" value="Mathers Museum of World Culture,90"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-446.9908" y="-196.06226" z="0.0"></viz:position>
+        <viz:color r="236" g="89" b="89"></viz:color>
+      </node>
+      <node id="33" label="33">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+          <attvalue for="eccentricity" value="13.0"></attvalue>
+          <attvalue for="closnesscentrality" value="8.660377358490566"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="eigencentrality" value="0.012580472064424163"></attvalue>
+          <attvalue for="Name" value="Will Emigh,33"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="76.80439" y="255.40204" z="0.0"></viz:position>
+        <viz:color r="236" g="89" b="89"></viz:color>
+      </node>
+      <node id="111" label="111">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+          <attvalue for="eccentricity" value="2.0"></attvalue>
+          <attvalue for="closnesscentrality" value="1.5"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="eigencentrality" value="0.010213264189672524"></attvalue>
+          <attvalue for="Name" value="Muslim American Identities,111"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-519.75903" y="470.94885" z="0.0"></viz:position>
+        <viz:color r="236" g="89" b="89"></viz:color>
+      </node>
+      <node id="133" label="133">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+          <attvalue for="eccentricity" value="9.0"></attvalue>
+          <attvalue for="closnesscentrality" value="5.481132075471698"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="eigencentrality" value="0.09355467893897823"></attvalue>
+          <attvalue for="Name" value="133"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-276.97803" y="-419.57452" z="0.0"></viz:position>
+        <viz:color r="236" g="89" b="89"></viz:color>
+      </node>
+      <node id="112" label="112">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+          <attvalue for="eccentricity" value="9.0"></attvalue>
+          <attvalue for="closnesscentrality" value="5.481132075471698"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="eigencentrality" value="0.09355467893897823"></attvalue>
+          <attvalue for="Name" value="Oufinopo,112"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-102.56353" y="-395.55316" z="0.0"></viz:position>
+        <viz:color r="236" g="89" b="89"></viz:color>
+      </node>
+      <node id="75" label="75">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+          <attvalue for="eccentricity" value="2.0"></attvalue>
+          <attvalue for="closnesscentrality" value="1.5"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="eigencentrality" value="0.010213264189672524"></attvalue>
+          <attvalue for="Name" value="Philosophy,75"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="386.0359" y="-406.96448" z="0.0"></viz:position>
+        <viz:color r="236" g="89" b="89"></viz:color>
+      </node>
+      <node id="76" label="76">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+          <attvalue for="eccentricity" value="2.0"></attvalue>
+          <attvalue for="closnesscentrality" value="1.5"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="eigencentrality" value="0.010213264189672524"></attvalue>
+          <attvalue for="Name" value="Religious Studies,76"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="377.781" y="64.34681" z="0.0"></viz:position>
+        <viz:color r="236" g="89" b="89"></viz:color>
+      </node>
+      <node id="116" label="116">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+          <attvalue for="eccentricity" value="2.0"></attvalue>
+          <attvalue for="closnesscentrality" value="1.5"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="eigencentrality" value="0.010213264189672524"></attvalue>
+          <attvalue for="Name" value="Richard Rufus Project,116"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-19.454342" y="408.24927" z="0.0"></viz:position>
+        <viz:color r="236" g="89" b="89"></viz:color>
+      </node>
+      <node id="114" label="114">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+          <attvalue for="eccentricity" value="9.0"></attvalue>
+          <attvalue for="closnesscentrality" value="5.160377358490566"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="eigencentrality" value="0.22816908911135264"></attvalue>
+          <attvalue for="Name" value="Swinburne Project,114"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="426.11584" y="403.89136" z="0.0"></viz:position>
+        <viz:color r="236" g="89" b="89"></viz:color>
+      </node>
+      <node id="126" label="126">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+          <attvalue for="eccentricity" value="11.0"></attvalue>
+          <attvalue for="closnesscentrality" value="6.5754716981132075"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="eigencentrality" value="0.03840388437976228"></attvalue>
+          <attvalue for="Name" value="TheJUMP journal,126"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-238.06805" y="-5.6171217" z="0.0"></viz:position>
+        <viz:color r="236" g="89" b="89"></viz:color>
+      </node>
+      <node id="117" label="117">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+          <attvalue for="eccentricity" value="12.0"></attvalue>
+          <attvalue for="closnesscentrality" value="6.764150943396227"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="eigencentrality" value="0.02119775757524674"></attvalue>
+          <attvalue for="Name" value="Thesaurus Musicarum Latinarum,117"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="162.77393" y="394.15277" z="0.0"></viz:position>
+        <viz:color r="236" g="89" b="89"></viz:color>
+      </node>
+      <node id="92" label="92">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+          <attvalue for="eccentricity" value="10.0"></attvalue>
+          <attvalue for="closnesscentrality" value="5.839622641509434"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="eigencentrality" value="0.06184447888760985"></attvalue>
+          <attvalue for="Name" value="Variations,92"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-21.005795" y="-62.29623" z="0.0"></viz:position>
+        <viz:color r="236" g="89" b="89"></viz:color>
+      </node>
+      <node id="121" label="121">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+          <attvalue for="eccentricity" value="12.0"></attvalue>
+          <attvalue for="closnesscentrality" value="5.990566037735849"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="eigencentrality" value="0.08842911027972478"></attvalue>
+          <attvalue for="Name" value="Wikipedia Edit-a-Thons,121"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-92.503105" y="94.798836" z="0.0"></viz:position>
+        <viz:color r="236" g="89" b="89"></viz:color>
+      </node>
+      <node id="128" label="128">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+          <attvalue for="eccentricity" value="10.0"></attvalue>
+          <attvalue for="closnesscentrality" value="4.933962264150943"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="eigencentrality" value="0.16913783165776022"></attvalue>
+          <attvalue for="Name" value="128"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="426.16095" y="1.4679003" z="0.0"></viz:position>
+        <viz:color r="236" g="89" b="89"></viz:color>
+      </node>
+      <node id="123" label="123">
+        <attvalues>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="eccentricity" value="9.0"></attvalue>
+          <attvalue for="closnesscentrality" value="4.59433962264151"></attvalue>
+          <attvalue for="betweenesscentrality" value="104.21592774087864"></attvalue>
+          <attvalue for="eigencentrality" value="0.3765180235467521"></attvalue>
+          <attvalue for="Name" value="ADHO Abstracts,123"></attvalue>
+        </attvalues>
+        <viz:size value="7.727273"></viz:size>
+        <viz:position x="332.4168" y="310.93994" z="0.0"></viz:position>
+        <viz:color r="223" g="236" b="89"></viz:color>
+      </node>
+      <node id="2" label="2">
+        <attvalues>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="1.75"></attvalue>
+          <attvalue for="betweenesscentrality" value="3.0"></attvalue>
+          <attvalue for="eigencentrality" value="0.02139056336483573"></attvalue>
+          <attvalue for="Name" value="Douglas Parks,2"></attvalue>
+        </attvalues>
+        <viz:size value="7.727273"></viz:size>
+        <viz:position x="-210.49078" y="101.11646" z="0.0"></viz:position>
+        <viz:color r="223" g="236" b="89"></viz:color>
+      </node>
+      <node id="1" label="1">
+        <attvalues>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="eccentricity" value="1.0"></attvalue>
+          <attvalue for="closnesscentrality" value="1.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="1.0"></attvalue>
+          <attvalue for="eigencentrality" value="0.014782277169495867"></attvalue>
+          <attvalue for="Name" value="Michael Martin,1"></attvalue>
+        </attvalues>
+        <viz:size value="7.727273"></viz:size>
+        <viz:position x="-319.94147" y="147.94568" z="0.0"></viz:position>
+        <viz:color r="223" g="236" b="89"></viz:color>
+      </node>
+      <node id="63" label="63">
+        <attvalues>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="eccentricity" value="2.0"></attvalue>
+          <attvalue for="closnesscentrality" value="1.5"></attvalue>
+          <attvalue for="betweenesscentrality" value="4.0"></attvalue>
+          <attvalue for="eigencentrality" value="0.024569632302463295"></attvalue>
+          <attvalue for="Name" value="Anthropology,63"></attvalue>
+        </attvalues>
+        <viz:size value="7.727273"></viz:size>
+        <viz:position x="-132.21005" y="-451.4186" z="0.0"></viz:position>
+        <viz:color r="223" g="236" b="89"></viz:color>
+      </node>
+      <node id="3" label="3">
+        <attvalues>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="1.75"></attvalue>
+          <attvalue for="betweenesscentrality" value="3.0"></attvalue>
+          <attvalue for="eigencentrality" value="0.02139056336483573"></attvalue>
+          <attvalue for="Name" value="Stacie King,3"></attvalue>
+        </attvalues>
+        <viz:size value="7.727273"></viz:size>
+        <viz:position x="-495.349" y="275.37067" z="0.0"></viz:position>
+        <viz:color r="223" g="236" b="89"></viz:color>
+      </node>
+      <node id="19" label="19">
+        <attvalues>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="eccentricity" value="10.0"></attvalue>
+          <attvalue for="closnesscentrality" value="5.377358490566038"></attvalue>
+          <attvalue for="betweenesscentrality" value="34.33333333333339"></attvalue>
+          <attvalue for="eigencentrality" value="0.24347090305830021"></attvalue>
+          <attvalue for="Name" value="Cassidy Sugimoto,19"></attvalue>
+        </attvalues>
+        <viz:size value="7.727273"></viz:size>
+        <viz:position x="-517.9357" y="301.87805" z="0.0"></viz:position>
+        <viz:color r="223" g="236" b="89"></viz:color>
+      </node>
+      <node id="24" label="24">
+        <attvalues>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="eccentricity" value="10.0"></attvalue>
+          <attvalue for="closnesscentrality" value="5.377358490566038"></attvalue>
+          <attvalue for="betweenesscentrality" value="34.33333333333339"></attvalue>
+          <attvalue for="eigencentrality" value="0.24347090305830021"></attvalue>
+          <attvalue for="Name" value="Stasia Milojevic,24"></attvalue>
+        </attvalues>
+        <viz:size value="7.727273"></viz:size>
+        <viz:position x="146.41223" y="392.94427" z="0.0"></viz:position>
+        <viz:color r="223" g="236" b="89"></viz:color>
+      </node>
+      <node id="25" label="25">
+        <attvalues>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="eccentricity" value="10.0"></attvalue>
+          <attvalue for="closnesscentrality" value="5.377358490566038"></attvalue>
+          <attvalue for="betweenesscentrality" value="34.33333333333339"></attvalue>
+          <attvalue for="eigencentrality" value="0.24347090305830021"></attvalue>
+          <attvalue for="Name" value="Ying Ding,25"></attvalue>
+        </attvalues>
+        <viz:size value="7.727273"></viz:size>
+        <viz:position x="-70.10168" y="457.99646" z="0.0"></viz:position>
+        <viz:color r="223" g="236" b="89"></viz:color>
+      </node>
+      <node id="53" label="53">
+        <attvalues>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="eccentricity" value="9.0"></attvalue>
+          <attvalue for="closnesscentrality" value="5.037735849056604"></attvalue>
+          <attvalue for="betweenesscentrality" value="12.333694083694077"></attvalue>
+          <attvalue for="eigencentrality" value="0.21663216977117153"></attvalue>
+          <attvalue for="Name" value="Wally Hooper"></attvalue>
+        </attvalues>
+        <viz:size value="7.727273"></viz:size>
+        <viz:position x="317.64532" y="250.56976" z="0.0"></viz:position>
+        <viz:color r="223" g="236" b="89"></viz:color>
+      </node>
+      <node id="47" label="47">
+        <attvalues>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="eccentricity" value="9.0"></attvalue>
+          <attvalue for="closnesscentrality" value="4.30188679245283"></attvalue>
+          <attvalue for="betweenesscentrality" value="259.23669585227253"></attvalue>
+          <attvalue for="eigencentrality" value="0.3445641207815263"></attvalue>
+          <attvalue for="Name" value="Meridith Beck Sayre"></attvalue>
+        </attvalues>
+        <viz:size value="7.727273"></viz:size>
+        <viz:position x="291.62787" y="-297.13177" z="0.0"></viz:position>
+        <viz:color r="223" g="236" b="89"></viz:color>
+      </node>
+      <node id="96" label="96">
+        <attvalues>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="eccentricity" value="9.0"></attvalue>
+          <attvalue for="closnesscentrality" value="5.047169811320755"></attvalue>
+          <attvalue for="betweenesscentrality" value="13.463515406162465"></attvalue>
+          <attvalue for="eigencentrality" value="0.3411889971959446"></attvalue>
+          <attvalue for="Name" value="Comic Book Markup Language"></attvalue>
+        </attvalues>
+        <viz:size value="7.727273"></viz:size>
+        <viz:position x="-56.669033" y="428.4021" z="0.0"></viz:position>
+        <viz:color r="223" g="236" b="89"></viz:color>
+      </node>
+      <node id="22" label="22">
+        <attvalues>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="eccentricity" value="10.0"></attvalue>
+          <attvalue for="closnesscentrality" value="5.3584905660377355"></attvalue>
+          <attvalue for="betweenesscentrality" value="208.0"></attvalue>
+          <attvalue for="eigencentrality" value="0.21827270795310555"></attvalue>
+          <attvalue for="Name" value="Katy Borner"></attvalue>
+        </attvalues>
+        <viz:size value="7.727273"></viz:size>
+        <viz:position x="-122.432945" y="-241.8971" z="0.0"></viz:position>
+        <viz:color r="223" g="236" b="89"></viz:color>
+      </node>
+      <node id="83" label="83">
+        <attvalues>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="eccentricity" value="11.0"></attvalue>
+          <attvalue for="closnesscentrality" value="6.330188679245283"></attvalue>
+          <attvalue for="betweenesscentrality" value="105.0"></attvalue>
+          <attvalue for="eigencentrality" value="0.062496388689071786"></attvalue>
+          <attvalue for="Name" value="Cyberinfrastructure for Network Science"></attvalue>
+        </attvalues>
+        <viz:size value="7.727273"></viz:size>
+        <viz:position x="12.89417" y="-16.43768" z="0.0"></viz:position>
+        <viz:color r="223" g="236" b="89"></viz:color>
+      </node>
+      <node id="127" label="127">
+        <attvalues>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="eccentricity" value="9.0"></attvalue>
+          <attvalue for="closnesscentrality" value="4.745283018867925"></attvalue>
+          <attvalue for="betweenesscentrality" value="99.63053743348617"></attvalue>
+          <attvalue for="eigencentrality" value="0.28519579088392943"></attvalue>
+          <attvalue for="Name" value="Dig Arts and Hum"></attvalue>
+        </attvalues>
+        <viz:size value="7.727273"></viz:size>
+        <viz:position x="24.478825" y="-371.6297" z="0.0"></viz:position>
+        <viz:color r="223" g="236" b="89"></viz:color>
+      </node>
+      <node id="100" label="100">
+        <attvalues>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="eccentricity" value="12.0"></attvalue>
+          <attvalue for="closnesscentrality" value="5.745283018867925"></attvalue>
+          <attvalue for="betweenesscentrality" value="313.63492456765886"></attvalue>
+          <attvalue for="eigencentrality" value="0.13009216695954043"></attvalue>
+          <attvalue for="Name" value="Digital Applications in Archaeology and Cultural Heritage"></attvalue>
+        </attvalues>
+        <viz:size value="7.727273"></viz:size>
+        <viz:position x="78.28144" y="-363.52905" z="0.0"></viz:position>
+        <viz:color r="223" g="236" b="89"></viz:color>
+      </node>
+      <node id="101" label="101">
+        <attvalues>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="eccentricity" value="14.0"></attvalue>
+          <attvalue for="closnesscentrality" value="7.367924528301887"></attvalue>
+          <attvalue for="betweenesscentrality" value="13.926294316153104"></attvalue>
+          <attvalue for="eigencentrality" value="0.0722957808190322"></attvalue>
+          <attvalue for="Name" value="Digital Hadrian's Villa"></attvalue>
+        </attvalues>
+        <viz:size value="7.727273"></viz:size>
+        <viz:position x="-457.8677" y="-387.57257" z="0.0"></viz:position>
+        <viz:color r="223" g="236" b="89"></viz:color>
+      </node>
+      <node id="132" label="132">
+        <attvalues>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="eccentricity" value="10.0"></attvalue>
+          <attvalue for="closnesscentrality" value="4.89622641509434"></attvalue>
+          <attvalue for="betweenesscentrality" value="32.9273045045256"></attvalue>
+          <attvalue for="eigencentrality" value="0.2430537810971184"></attvalue>
+          <attvalue for="Name" value="132"></attvalue>
+        </attvalues>
+        <viz:size value="7.727273"></viz:size>
+        <viz:position x="-184.69345" y="-327.2047" z="0.0"></viz:position>
+        <viz:color r="223" g="236" b="89"></viz:color>
+      </node>
+      <node id="102" label="102">
+        <attvalues>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="eccentricity" value="11.0"></attvalue>
+          <attvalue for="closnesscentrality" value="6.556603773584905"></attvalue>
+          <attvalue for="betweenesscentrality" value="1.0"></attvalue>
+          <attvalue for="eigencentrality" value="0.07169007424199594"></attvalue>
+          <attvalue for="Name" value="Digital Rhetorics and Digital Humanities"></attvalue>
+        </attvalues>
+        <viz:size value="7.727273"></viz:size>
+        <viz:position x="-384.73035" y="311.9093" z="0.0"></viz:position>
+        <viz:color r="223" g="236" b="89"></viz:color>
+      </node>
+      <node id="7" label="7">
+        <attvalues>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="eccentricity" value="10.0"></attvalue>
+          <attvalue for="closnesscentrality" value="5.60377358490566"></attvalue>
+          <attvalue for="betweenesscentrality" value="51.5"></attvalue>
+          <attvalue for="eigencentrality" value="0.1196382190651411"></attvalue>
+          <attvalue for="Name" value="Scot Barnett"></attvalue>
+        </attvalues>
+        <viz:size value="7.727273"></viz:size>
+        <viz:position x="391.30524" y="-2.6710768" z="0.0"></viz:position>
+        <viz:color r="223" g="236" b="89"></viz:color>
+      </node>
+      <node id="13" label="13">
+        <attvalues>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="eccentricity" value="10.0"></attvalue>
+          <attvalue for="closnesscentrality" value="6.0754716981132075"></attvalue>
+          <attvalue for="betweenesscentrality" value="105.0"></attvalue>
+          <attvalue for="eigencentrality" value="0.09040268696226733"></attvalue>
+          <attvalue for="Name" value="H. Wayne Storey"></attvalue>
+        </attvalues>
+        <viz:size value="7.727273"></viz:size>
+        <viz:position x="318.10565" y="-373.27325" z="0.0"></viz:position>
+        <viz:color r="223" g="236" b="89"></viz:color>
+      </node>
+      <node id="14" label="14">
+        <attvalues>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="eccentricity" value="13.0"></attvalue>
+          <attvalue for="closnesscentrality" value="7.622641509433962"></attvalue>
+          <attvalue for="betweenesscentrality" value="105.0"></attvalue>
+          <attvalue for="eigencentrality" value="0.029494375656300992"></attvalue>
+          <attvalue for="Name" value="Jennifer Guiliano"></attvalue>
+        </attvalues>
+        <viz:size value="7.727273"></viz:size>
+        <viz:position x="-65.27856" y="276.11456" z="0.0"></viz:position>
+        <viz:color r="223" g="236" b="89"></viz:color>
+      </node>
+      <node id="16" label="16">
+        <attvalues>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="eccentricity" value="11.0"></attvalue>
+          <attvalue for="closnesscentrality" value="5.716981132075472"></attvalue>
+          <attvalue for="betweenesscentrality" value="408.0"></attvalue>
+          <attvalue for="eigencentrality" value="0.07720903653705592"></attvalue>
+          <attvalue for="Name" value="Konstantin Dierks"></attvalue>
+        </attvalues>
+        <viz:size value="7.727273"></viz:size>
+        <viz:position x="-238.09818" y="-34.119442" z="0.0"></viz:position>
+        <viz:color r="223" g="236" b="89"></viz:color>
+      </node>
+      <node id="69" label="69">
+        <attvalues>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="eccentricity" value="9.0"></attvalue>
+          <attvalue for="closnesscentrality" value="5.386792452830188"></attvalue>
+          <attvalue for="betweenesscentrality" value="368.49364283350275"></attvalue>
+          <attvalue for="eigencentrality" value="0.08674473029434605"></attvalue>
+          <attvalue for="Name" value="History Philosophy of Science"></attvalue>
+        </attvalues>
+        <viz:size value="7.727273"></viz:size>
+        <viz:position x="-314.91205" y="-397.9576" z="0.0"></viz:position>
+        <viz:color r="223" g="236" b="89"></viz:color>
+      </node>
+      <node id="108" label="108">
+        <attvalues>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="eccentricity" value="11.0"></attvalue>
+          <attvalue for="closnesscentrality" value="6.820754716981132"></attvalue>
+          <attvalue for="betweenesscentrality" value="105.0"></attvalue>
+          <attvalue for="eigencentrality" value="0.03543170164209033"></attvalue>
+          <attvalue for="Name" value="Indiana Philosophy Ontology"></attvalue>
+        </attvalues>
+        <viz:size value="7.727273"></viz:size>
+        <viz:position x="175.36761" y="-388.43112" z="0.0"></viz:position>
+        <viz:color r="223" g="236" b="89"></viz:color>
+      </node>
+      <node id="42" label="42">
+        <attvalues>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="eccentricity" value="8.0"></attvalue>
+          <attvalue for="closnesscentrality" value="4.283018867924528"></attvalue>
+          <attvalue for="betweenesscentrality" value="479.9829692327815"></attvalue>
+          <attvalue for="eigencentrality" value="0.2660970640854291"></attvalue>
+          <attvalue for="Name" value="Andrew Albrecht"></attvalue>
+        </attvalues>
+        <viz:size value="7.727273"></viz:size>
+        <viz:position x="222.42676" y="433.1759" z="0.0"></viz:position>
+        <viz:color r="223" g="236" b="89"></viz:color>
+      </node>
+      <node id="30" label="30">
+        <attvalues>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="eccentricity" value="10.0"></attvalue>
+          <attvalue for="closnesscentrality" value="6.39622641509434"></attvalue>
+          <attvalue for="betweenesscentrality" value="105.0"></attvalue>
+          <attvalue for="eigencentrality" value="0.05691311694766762"></attvalue>
+          <attvalue for="Name" value="Erika Dowell"></attvalue>
+        </attvalues>
+        <viz:size value="7.727273"></viz:size>
+        <viz:position x="122.258" y="368.51245" z="0.0"></viz:position>
+        <viz:color r="223" g="236" b="89"></viz:color>
+      </node>
+      <node id="38" label="38">
+        <attvalues>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="eccentricity" value="9.0"></attvalue>
+          <attvalue for="closnesscentrality" value="5.113207547169812"></attvalue>
+          <attvalue for="betweenesscentrality" value="144.5728639295691"></attvalue>
+          <attvalue for="eigencentrality" value="0.1203491437379946"></attvalue>
+          <attvalue for="Name" value="Brad Wheeler"></attvalue>
+        </attvalues>
+        <viz:size value="7.727273"></viz:size>
+        <viz:position x="-108.76171" y="-393.85663" z="0.0"></viz:position>
+        <viz:color r="223" g="236" b="89"></viz:color>
+      </node>
+      <node id="44" label="44">
+        <attvalues>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="eccentricity" value="8.0"></attvalue>
+          <attvalue for="closnesscentrality" value="4.528301886792453"></attvalue>
+          <attvalue for="betweenesscentrality" value="449.1062674657306"></attvalue>
+          <attvalue for="eigencentrality" value="0.26849631578689714"></attvalue>
+          <attvalue for="Name" value="Brenda Johnson"></attvalue>
+        </attvalues>
+        <viz:size value="7.727273"></viz:size>
+        <viz:position x="-17.703976" y="99.00495" z="0.0"></viz:position>
+        <viz:color r="223" g="236" b="89"></viz:color>
+      </node>
+      <node id="40" label="40">
+        <attvalues>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="eccentricity" value="9.0"></attvalue>
+          <attvalue for="closnesscentrality" value="5.113207547169812"></attvalue>
+          <attvalue for="betweenesscentrality" value="144.5728639295691"></attvalue>
+          <attvalue for="eigencentrality" value="0.1203491437379946"></attvalue>
+          <attvalue for="Name" value="Laurie Antolivic"></attvalue>
+        </attvalues>
+        <viz:size value="7.727273"></viz:size>
+        <viz:position x="-75.19155" y="204.02368" z="0.0"></viz:position>
+        <viz:color r="223" g="236" b="89"></viz:color>
+      </node>
+      <node id="31" label="31">
+        <attvalues>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="eccentricity" value="11.0"></attvalue>
+          <attvalue for="closnesscentrality" value="6.69811320754717"></attvalue>
+          <attvalue for="betweenesscentrality" value="208.0"></attvalue>
+          <attvalue for="eigencentrality" value="0.035396199428054276"></attvalue>
+          <attvalue for="Name" value="Andy Uhrich"></attvalue>
+        </attvalues>
+        <viz:size value="7.727273"></viz:size>
+        <viz:position x="179.34338" y="94.852974" z="0.0"></viz:position>
+        <viz:color r="223" g="236" b="89"></viz:color>
+      </node>
+      <node id="73" label="73">
+        <attvalues>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="eccentricity" value="12.0"></attvalue>
+          <attvalue for="closnesscentrality" value="7.669811320754717"></attvalue>
+          <attvalue for="betweenesscentrality" value="105.0"></attvalue>
+          <attvalue for="eigencentrality" value="0.02334213100992598"></attvalue>
+          <attvalue for="Name" value="Media School"></attvalue>
+        </attvalues>
+        <viz:size value="7.727273"></viz:size>
+        <viz:position x="344.33984" y="-503.27502" z="0.0"></viz:position>
+        <viz:color r="223" g="236" b="89"></viz:color>
+      </node>
+      <node id="110" label="110">
+        <attvalues>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="eccentricity" value="10.0"></attvalue>
+          <attvalue for="closnesscentrality" value="5.745283018867925"></attvalue>
+          <attvalue for="betweenesscentrality" value="309.0"></attvalue>
+          <attvalue for="eigencentrality" value="0.07306120873999196"></attvalue>
+          <attvalue for="Name" value="Moving Image Archive"></attvalue>
+        </attvalues>
+        <viz:size value="7.727273"></viz:size>
+        <viz:position x="119.17518" y="-65.45464" z="0.0"></viz:position>
+        <viz:color r="223" g="236" b="89"></viz:color>
+      </node>
+      <node id="50" label="50">
+        <attvalues>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="eccentricity" value="9.0"></attvalue>
+          <attvalue for="closnesscentrality" value="4.811320754716981"></attvalue>
+          <attvalue for="betweenesscentrality" value="408.0"></attvalue>
+          <attvalue for="eigencentrality" value="0.23057298804112744"></attvalue>
+          <attvalue for="Name" value="Rachael Stoeltje"></attvalue>
+        </attvalues>
+        <viz:size value="7.727273"></viz:size>
+        <viz:position x="-98.10821" y="265.28296" z="0.0"></viz:position>
+        <viz:color r="223" g="236" b="89"></viz:color>
+      </node>
+      <node id="35" label="35">
+        <attvalues>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="eccentricity" value="11.0"></attvalue>
+          <attvalue for="closnesscentrality" value="5.773584905660377"></attvalue>
+          <attvalue for="betweenesscentrality" value="105.0"></attvalue>
+          <attvalue for="eigencentrality" value="0.06557909366713995"></attvalue>
+          <attvalue for="Name" value="Guiliano Di Bacco"></attvalue>
+        </attvalues>
+        <viz:size value="7.727273"></viz:size>
+        <viz:position x="-398.74933" y="23.01453" z="0.0"></viz:position>
+        <viz:color r="223" g="236" b="89"></viz:color>
+      </node>
+      <node id="37" label="37">
+        <attvalues>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="eccentricity" value="1.0"></attvalue>
+          <attvalue for="closnesscentrality" value="1.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="1.0"></attvalue>
+          <attvalue for="eigencentrality" value="0.014782277169495867"></attvalue>
+          <attvalue for="Name" value="Edward Curtis"></attvalue>
+        </attvalues>
+        <viz:size value="7.727273"></viz:size>
+        <viz:position x="-373.20837" y="200.2865" z="0.0"></viz:position>
+        <viz:color r="223" g="236" b="89"></viz:color>
+      </node>
+      <node id="125" label="125">
+        <attvalues>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="eccentricity" value="10.0"></attvalue>
+          <attvalue for="closnesscentrality" value="5.820754716981132"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.8333333333333333"></attvalue>
+          <attvalue for="eigencentrality" value="0.1336340650419302"></attvalue>
+          <attvalue for="Name" value="Open Journal System"></attvalue>
+        </attvalues>
+        <viz:size value="7.727273"></viz:size>
+        <viz:position x="381.26715" y="-228.91333" z="0.0"></viz:position>
+        <viz:color r="223" g="236" b="89"></viz:color>
+      </node>
+      <node id="60" label="60">
+        <attvalues>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="eccentricity" value="9.0"></attvalue>
+          <attvalue for="closnesscentrality" value="4.867924528301887"></attvalue>
+          <attvalue for="betweenesscentrality" value="45.11998797498797"></attvalue>
+          <attvalue for="eigencentrality" value="0.2425166581755665"></attvalue>
+          <attvalue for="Name" value="Sheyna Pekala"></attvalue>
+        </attvalues>
+        <viz:size value="7.727273"></viz:size>
+        <viz:position x="-258.5242" y="-127.684654" z="0.0"></viz:position>
+        <viz:color r="223" g="236" b="89"></viz:color>
+      </node>
+      <node id="36" label="36">
+        <attvalues>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="eccentricity" value="1.0"></attvalue>
+          <attvalue for="closnesscentrality" value="1.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="1.0"></attvalue>
+          <attvalue for="eigencentrality" value="0.014782277169495867"></attvalue>
+          <attvalue for="Name" value="Rega Wood"></attvalue>
+        </attvalues>
+        <viz:size value="7.727273"></viz:size>
+        <viz:position x="-360.80536" y="-392.18777" z="0.0"></viz:position>
+        <viz:color r="223" g="236" b="89"></viz:color>
+      </node>
+      <node id="43" label="43">
+        <attvalues>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="eccentricity" value="9.0"></attvalue>
+          <attvalue for="closnesscentrality" value="4.867924528301887"></attvalue>
+          <attvalue for="betweenesscentrality" value="22.8994708994709"></attvalue>
+          <attvalue for="eigencentrality" value="0.2638497621152105"></attvalue>
+          <attvalue for="Name" value="Angela Courtney"></attvalue>
+        </attvalues>
+        <viz:size value="7.727273"></viz:size>
+        <viz:position x="-419.99078" y="2.7807665" z="0.0"></viz:position>
+        <viz:color r="223" g="236" b="89"></viz:color>
+      </node>
+      <node id="118" label="118">
+        <attvalues>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="eccentricity" value="10.0"></attvalue>
+          <attvalue for="closnesscentrality" value="4.915094339622642"></attvalue>
+          <attvalue for="betweenesscentrality" value="20.16728045450155"></attvalue>
+          <attvalue for="eigencentrality" value="0.2329423909243664"></attvalue>
+          <attvalue for="Name" value="Victorian Women Writers Project"></attvalue>
+        </attvalues>
+        <viz:size value="7.727273"></viz:size>
+        <viz:position x="268.06842" y="81.14204" z="0.0"></viz:position>
+        <viz:color r="223" g="236" b="89"></viz:color>
+      </node>
+      <node id="93" label="93">
+        <attvalues>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="eccentricity" value="14.0"></attvalue>
+          <attvalue for="closnesscentrality" value="7.367924528301887"></attvalue>
+          <attvalue for="betweenesscentrality" value="13.926294316153104"></attvalue>
+          <attvalue for="eigencentrality" value="0.0722957808190322"></attvalue>
+          <attvalue for="Name" value="Virtual World Heritage Laboratory"></attvalue>
+        </attvalues>
+        <viz:size value="7.727273"></viz:size>
+        <viz:position x="123.99787" y="-220.64679" z="0.0"></viz:position>
+        <viz:color r="223" g="236" b="89"></viz:color>
+      </node>
+      <node id="46" label="46">
+        <attvalues>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="eccentricity" value="9.0"></attvalue>
+          <attvalue for="closnesscentrality" value="4.830188679245283"></attvalue>
+          <attvalue for="betweenesscentrality" value="110.1969696969697"></attvalue>
+          <attvalue for="eigencentrality" value="0.2554869865176206"></attvalue>
+          <attvalue for="Name" value="Julie Hardesty"></attvalue>
+        </attvalues>
+        <viz:size value="7.727273"></viz:size>
+        <viz:position x="-206.5008" y="245.05475" z="0.0"></viz:position>
+        <viz:color r="223" g="236" b="89"></viz:color>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="23" target="123">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="23" target="99">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="23" target="84">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="23" target="64">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="23" target="122">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="23" target="70">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="41" target="84">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="41" target="100">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="41" target="103">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="41" target="105">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="41" target="122">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="41" target="77">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="41" target="121">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="48" target="97">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="48" target="98">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="48" target="78">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="48" target="132">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="48" target="107">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="48" target="115">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="48" target="118">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="48" target="128">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="21" target="123">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="21" target="82">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="21" target="98">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="21" target="96">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="21" target="99">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="21" target="127">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="21" target="70">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="21" target="113">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="21" target="114">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="21" target="115">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="51" target="78">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="51" target="104">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="51" target="133">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="51" target="112">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="51" target="120">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="5" target="96">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="5" target="64">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="5" target="70">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="5" target="115">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="28" target="85">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="28" target="88">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="28" target="71">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="28" target="91">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="27" target="100">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="27" target="101">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="27" target="71">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="27" target="93">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="52" target="131">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="52" target="104">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="52" target="109">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="45" target="94">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="45" target="78">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="45" target="92">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="17" target="82">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="17" target="98">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="17" target="69">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="20" target="99">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="20" target="70">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="20" target="113">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="39" target="84">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="39" target="91">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="39" target="77">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="4" target="127">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="4" target="64">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="4" target="89">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="29" target="101">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="29" target="71">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="29" target="93">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="49" target="78" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="49" target="132">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="49" target="125">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="6" target="102">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="6" target="64">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="6" target="126">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="56" target="104">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="56" target="122">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="56" target="89">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="8" target="65">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="8" target="89">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="8" target="91">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="11" target="66">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="11" target="90">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="11" target="109">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="18" target="88">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="18" target="69">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="18" target="108">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="54" target="83">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="12" target="104">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="10" target="65">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="9" target="65">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="55" target="88">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="15" target="68">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="58" target="108">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="26" target="70">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="57" target="106">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="33" target="73">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="2" target="79">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="2" target="63">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="1" target="62">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="1" target="81">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="3" target="63">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="3" target="86">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="19" target="95">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="19" target="70">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="24" target="95">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="24" target="70">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="25" target="95">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="25" target="70">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="53" target="82">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="53" target="98">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="47" target="98">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="47" target="78">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="22" target="83">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="22" target="70">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="7" target="102">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="7" target="64">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="13" target="67">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="13" target="113">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="14" target="68">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="14" target="87">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="16" target="68">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="16" target="107">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="42" target="78">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="42" target="89">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="30" target="72">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="30" target="120">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="38" target="109">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="38" target="77">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="44" target="78">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="44" target="109">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="40" target="109">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="40" target="77">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="31" target="73">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="31" target="110">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="50" target="78">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="50" target="110">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="35" target="107">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="35" target="117">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="37" target="111">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="37" target="76">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="60" target="78">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="60" target="125">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="36" target="75">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="36" target="116">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="43" target="78">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="43" target="118">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="46" target="78">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+      <edge source="46" target="120">
+        <viz:color r="254" g="240" b="217"></viz:color>
+        <attvalues></attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>
