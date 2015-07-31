@@ -1,6 +1,5 @@
-## JavaScript GEXF Viewer for Gephi #   
-### Network Visualization of Digital Humanties at Indiana University    
-Revised and published for CyberDH, Research Technologies, Indiana University. 
+### Network Visualization of Digital Humanties at Indiana University  
+### Using JavaScript GEXF Viewer for Gephi    
 
 #### [Tutorial](http://www.rshiggins.net/gefx-tutorial.html) for creating project in Gephi and deploying with gefx.js by rshiggin.
 * http://rshiggins.net
