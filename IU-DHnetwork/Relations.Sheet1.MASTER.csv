@@ -1,0 +1,151 @@
+personID,Person,Affiliation,affD
+21,John Walsh,ADHO Abstracts,123
+23,Richard Higgins,ADHO Abstracts,123
+2,Douglas Parks,American Indian Studies Research Institute,79
+1,Michael Martin,American Studies,62
+2,Douglas Parks,Anthropology,63
+3,Stacie King,Anthropology,63
+52,Alan Burdette,Archives of Traditional Music,131
+45,Jon Dunn,Avalon,94
+1,Michael Martin,Black Film Archive,81
+19,Cassidy Sugimoto,"Cascades, Islands, or Streams?",95
+24,Stasia Milojevic,"Cascades, Islands, or Streams?",95
+25,Ying Ding,"Cascades, Islands, or Streams?",95
+17,Bill Newman,Catapult Center,82
+21,John Walsh,Catapult Center,82
+53,Wally Hooper,Catapult Center,82
+48,Michelle Dalmau,Charles Cushman Photographs,97
+17,Bill Newman,Chymistry of Isaac Newton,98
+21,John Walsh,Chymistry of Isaac Newton,98
+53,Wally Hooper,Chymistry of Isaac Newton,98
+48,Michelle Dalmau,Chymistry of Isaac Newton  ,98
+47,Meridith Beck Sayre,Chymistry of Isaac Newton  ,98
+5,Grant Simpson,Comic Book Markup Language,96
+21,John Walsh,Comic Book Markup Language,96
+20,Grace Thomas,Comic Readership Archive,99
+21,John Walsh,Comic Readership Archive,99
+23,Richard Higgins,Comic Readership Archive,99
+39,Eric Wernert,CyberDH,84
+23,Richard Higgins,CyberDH,84
+41,Tassie Gniady,CyberDH,84
+22,Katy Borner,Cyberinfrastructure for Network Science,83
+54,Scott Weingart,Cyberinfrastructure for Network Science,83
+28,Beth Plale,Data to Insight Center,85
+4,Ellen MacKay,Dig Arts & Hum,127
+21,John Walsh,Dig Arts & Hum,127
+27,Bernie Frischer,Digital Applications in Archaeology and Cultural Heritage,100
+41,Tassie Gniady,Digital Applications in Archaeology and Cultural Heritage,100
+27,Bernie Frischer,Digital Hadrian's Villa,101
+29,Matthew Brennan,Digital Hadrian's Villa,101
+49,Nicholas Homenda,Digital Initiatives,78
+48,Michelle Dalmau,Digital Projects Consulting,132
+49,Nicholas Homenda,Digital Projects Consulting,132
+6,Justin Hodgson,Digital Rhetorics & Digital Humanities ,102
+7,Scot Barnett,Digital Rhetorics & Digital Humanities ,102
+4,Ellen MacKay,English,64
+5,Grant Simpson,English,64
+6,Justin Hodgson,English,64
+23,Richard Higgins,English,64
+7,Scot Barnett,English,64
+41,Tassie Gniady,English Broadside Ballad Archive,103
+52,Alan Burdette,EVIA,104
+56,Clara Henderson,EVIA,104
+12,Ruth Stone,EVIA,104
+51,Will Cowan,EVIA,104
+41,Tassie Gniady,FemTechNet,105
+10,Arthur Liou,Fine Arts,65
+8,Margaret Dolinsky,Fine Arts,65
+9,Peter Williams,Fine Arts,65
+11,Jason Jackson,Folklore and Ethnomusicology,66
+13,H. Wayne Storey,French and Italian,67
+3,Stacie King,Glenn Black Lab,86
+56,Clara Henderson,HASTAC,122
+23,Richard Higgins,HASTAC,122
+41,Tassie Gniady,HASTAC,122
+28,Beth Plale,Hathi Trust Research Center,88
+18,Colin Allen,Hathi Trust Research Center,88
+55,Dirk Herr-Hoyman,Hathi Trust Research Center,88
+14,Jennifer Guiliano,History,68
+15,Kalani Craig,History,68
+16,Konstantin Dierks,History,68
+17,Bill Newman,History & Philosophy of Science,69
+18,Colin Allen,History & Philosophy of Science,69
+14,Jennifer Guiliano,Humanities Intensive Learning and Teaching Institute,87
+18,Colin Allen,Indiana Philosophy Ontology,108
+58,Jaimie Murdock,Indiana Philosophy Ontology,108
+27,Bernie Frischer,Informatics,71
+28,Beth Plale,Informatics,71
+29,Matthew Brennan,Informatics,71
+19,Cassidy Sugimoto,Information & Library Science,70
+20,Grace Thomas,Information & Library Science,70
+5,Grant Simpson,Information & Library Science,70
+21,John Walsh,Information & Library Science,70
+22,Katy Borner,Information & Library Science,70
+23,Richard Higgins,Information & Library Science,70
+24,Stasia Milojevic,Information & Library Science,70
+26,Vincent Malic,Information & Library Science,70
+25,Ying Ding,Information & Library Science,70
+42,Andrew Albrecht,Institute for Digital Arts & Humanities,89
+56,Clara Henderson,Institute for Digital Arts & Humanities,89
+4,Ellen MacKay,Institute for Digital Arts & Humanities,89
+8,Margaret Dolinsky,Institute for Digital Arts & Humanities,89
+57,Verlon Stone,Liberian Collections,106
+30,Erika Dowell,Lilly Library,72
+16,Konstantin Dierks,Mapping World History,107
+48,Michelle Dalmau,Mapping World History,107
+11,Jason Jackson,Mathers Museum of World Culture,90
+52,Alan Burdette,Media Data Preservation Initiative ,109
+38,Brad Wheeler,Media Data Preservation Initiative ,109
+44,Brenda Johnson,Media Data Preservation Initiative ,109
+11,Jason Jackson,Media Data Preservation Initiative ,109
+40,Laurie Antolivic,Media Data Preservation Initiative ,109
+31,Andy Uhrich,Media School,73
+33,Will Emigh,Media School,73
+31,Andy Uhrich,Moving Image Archive,110
+50,Rachael Stoeltje,Moving Image Archive,110
+35,Guiliano Di Bacco,Music,107
+37,Edward Curtis IV,Muslim American Identities,111
+51,Will Cowan,Omeka,133
+49,Nicholas Homenda,Open Journal System ,125
+60,Sheyna Pekala,Open Journal System ,125
+51,Will Cowan,Oufinopo,112
+28,Beth Plale,Pervasive Technology Institute,91
+39,Eric Wernert,Pervasive Technology Institute,91
+8,Margaret Dolinsky,Pervasive Technology Institute ,91
+20,Grace Thomas,Petrarchive,113
+13,H. Wayne Storey,Petrarchive,113
+21,John Walsh,Petrarchive,113
+36,Rega Wood,Philosophy,75
+37,Edward Curtis IV,Religious Studies,76
+36,Rega Wood,Richard Rufus Project,116
+21,John Walsh,Swinburne Project,114
+5,Grant Simpson,TEI Boilerplate,115
+21,John Walsh,TEI Boilerplate,115
+48,Michelle Dalmau,TEI Boilerplate,115
+6,Justin Hodgson,TheJUMP journal,126
+35,Guiliano Di Bacco,Thesaurus Musicarum Latinarum,117
+38,Brad Wheeler,UITS,77
+39,Eric Wernert,UITS,77
+40,Laurie Antolivic,UITS,77
+41,Tassie Gniady,UITS,77
+45,Jon Dunn,Variations,92
+43,Angela Courtney,Victorian Women Writers Project,118
+48,Michelle Dalmau,Victorian Women Writers Project,118
+27,Bernie Frischer,Virtual World Heritage Laboratory,93
+29,Matthew Brennan,Virtual World Heritage Laboratory,93
+30,Erika Dowell,War of 1812,120
+46,Julie Hardesty,War of 1812,120
+51,Will Cowan,War of 1812,120
+42,Andrew Albrecht,Wells Library,78
+43,Angela Courtney,Wells Library,78
+44,Brenda Johnson,Wells Library,78
+45,Jon Dunn,Wells Library,78
+46,Julie Hardesty,Wells Library,78
+47,Meridith Beck Sayre,Wells Library,78
+48,Michelle Dalmau,Wells Library,78
+49,Nicholas Homenda,Wells Library,78
+50,Rachael Stoeltje,Wells Library,78
+60,Sheyna Pekala,Wells Library,78
+51,Will Cowan,Wells Library,78
+41,Tassie Gniady,Wikipedia Edit-a-Thons,121
+48,Michelle Dalmau,Wright American Fiction Project,128
